@@ -1,0 +1,3 @@
+[submodule "Librairies/raeslib"]
+	path = Librairies/raeslib
+	url = git@github.com:Raesangur/RaesLib.git
