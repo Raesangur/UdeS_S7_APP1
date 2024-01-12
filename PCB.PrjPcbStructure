@@ -1,3 +1,5 @@
-Record=TopLevelDocument|FileName=MECHANICAL.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=MECHANICAL.SchDoc|FileName=OVERVIEW.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=MECHANICAL.SchDoc|FileName=TITLE.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Altium_Schematic_Default.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=DDR3.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=MECHANICAL.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=OVERVIEW.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=TITLE.SchDoc|SheetNumber=1

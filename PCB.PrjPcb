@@ -103,23 +103,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FAPMBNMV
 
 [Document4]
-DocumentPath=PCB_BomJob.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=Librairies\raeslib\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=Librairies\raeslib\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Librairies\raeslib\Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBCIXUKT
 
-[Document8]
+[Document7]
 DocumentPath=Librairies\raeslib\Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONEDVHSB
 
-[Document9]
+[Document8]
 DocumentPath=Schematics\OVERVIEW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,8 +187,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMDUORKD
 
-[Document10]
+[Document9]
 DocumentPath=Schematics\MECHANICAL.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HNLXALEL
+
+[Document10]
+DocumentPath=Schematics\DDR3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KBPUFHZK
+
+[Document11]
+DocumentPath=Librairies\Altium_Librairie_PCB_Default.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=Librairies\Altium_Schematic_Default.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
