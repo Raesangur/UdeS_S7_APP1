@@ -1,5 +1,7 @@
-Record=TopLevelDocument|FileName=Altium_Schematic_Default.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=DDR3.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=MECHANICAL.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=OVERVIEW.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Altium_Schematic_Default.SchDoc|FileName=TITLE.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=OVERVIEW.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=DDR3|SchDesignator=DDR3|FileName=DDR3.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=DDR3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=FPGA|SchDesignator=FPGA|FileName=FPGA.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=FPGA_IO_[0..2]|SchDesignator=FPGA_IO_[0..2]|FileName=FPGA_IO_0_1_2.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=FPGA_IO_0_1_2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=FPGA_IO_[2..5]|SchDesignator=FPGA_IO_[2..5]|FileName=FPGA_IO_3_4_5.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=FPGA_IO_3_4_5.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=MECHANICAL|SchDesignator=MECHANICAL|FileName=MECHANICAL.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MECHANICAL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=OVERVIEW.SchDoc|FileName=TITLE.SchDoc|SheetNumber=1
