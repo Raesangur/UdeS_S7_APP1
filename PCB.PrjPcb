@@ -273,7 +273,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AXEZDIHU
 
 [Document14]
-DocumentPath=Schematics\FPGA_IO_0_1_2.SchDoc
+DocumentPath=Schematics\FPGA_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -290,23 +290,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DTBVUYSJ
 
 [Document15]
-DocumentPath=Schematics\FPGA_IO_3_4_5.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ARXAKLEW
-
-[Document16]
 DocumentPath=Schematics\PROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,24 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYWAZQYM
 
-[Document17]
-DocumentPath=Schematics\FPGA.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AXEZDIHV
-
-[Document18]
+[Document16]
 DocumentPath=Schematics\POWER_INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -357,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQFMFOHO
 
-[Document19]
+[Document17]
 DocumentPath=Schematics\ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -374,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBAGKWMY
 
-[Document20]
+[Document18]
 DocumentPath=Schematics\DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -391,7 +357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPQYGTKV
 
-[Document21]
+[Document19]
 DocumentPath=Schematics\DDR3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -420,92 +386,92 @@ Variation3=Designator=R29|UniqueId=\JJTPGRVE\EQTNUJHD\ULEOEIDC|Kind=1|AlternateP
 ParamVariationCount=0
 
 [Parameter1]
-Name=SCH_SCALE
-Value=1:1
-
-[Parameter2]
-Name=Revision
-Value=A
-
-[Parameter3]
-Name=Project_Revision
-Value=A
-
-[Parameter4]
-Name=Project_Name
-Value=PCB_S7
-
-[Parameter5]
-Name=Project_Group
-Value=Group 1
-
-[Parameter6]
-Name=Project_Global
-Value=UdeS_S7_APP1
-
-[Parameter7]
-Name=Project_Designer4
-Value=Frédéric Bilodeau
-
-[Parameter8]
-Name=Project_Designer3
-Value=bilf0901
-
-[Parameter9]
-Name=Project_Designer2
+Name=Author
 Value=Pascal-Emmanuel Lachance
 
-[Parameter10]
-Name=Project_Designer1
-Value=lacp3102
-
-[Parameter11]
-Name=Project_Date
-Value==CurrentDate
-
-[Parameter12]
-Name=Project
-Value=PCB_S7
-
-[Parameter13]
-Name=PCB_DWG_NO
-Value=PCB_S7.PcbDoc
-
-[Parameter14]
-Name=NotFitted
-Value=DNF
-
-[Parameter15]
-Name=ENG_APP_DATE
-Value=
-
-[Parameter16]
-Name=DSN_APP_DATE
-Value=
-
-[Parameter17]
-Name=DOC_NO_FAB_DWG
-Value=
-
-[Parameter18]
-Name=DOC_NO_BOM
-Value=PCB_S7_BOM.xslx
-
-[Parameter19]
-Name=DOC_NO_ASSY_DWG
-Value=PCB_S7_DWG.PCBDwf
-
-[Parameter20]
-Name=CHK_APP_DATE
-Value=
-
-[Parameter21]
+[Parameter2]
 Name=CAGE_CODE
 Value=
 
-[Parameter22]
-Name=Author
+[Parameter3]
+Name=CHK_APP_DATE
+Value=
+
+[Parameter4]
+Name=DOC_NO_ASSY_DWG
+Value=PCB_S7_DWG.PCBDwf
+
+[Parameter5]
+Name=DOC_NO_BOM
+Value=PCB_S7_BOM.xslx
+
+[Parameter6]
+Name=DOC_NO_FAB_DWG
+Value=
+
+[Parameter7]
+Name=DSN_APP_DATE
+Value=
+
+[Parameter8]
+Name=ENG_APP_DATE
+Value=
+
+[Parameter9]
+Name=NotFitted
+Value=DNF
+
+[Parameter10]
+Name=PCB_DWG_NO
+Value=PCB_S7.PcbDoc
+
+[Parameter11]
+Name=Project
+Value=PCB_S7
+
+[Parameter12]
+Name=Project_Date
+Value==CurrentDate
+
+[Parameter13]
+Name=Project_Designer1
+Value=lacp3102
+
+[Parameter14]
+Name=Project_Designer2
 Value=Pascal-Emmanuel Lachance
+
+[Parameter15]
+Name=Project_Designer3
+Value=bilf0901
+
+[Parameter16]
+Name=Project_Designer4
+Value=Frédéric Bilodeau
+
+[Parameter17]
+Name=Project_Global
+Value=UdeS_S7_APP1
+
+[Parameter18]
+Name=Project_Group
+Value=Group 1
+
+[Parameter19]
+Name=Project_Name
+Value=PCB_S7
+
+[Parameter20]
+Name=Project_Revision
+Value=A
+
+[Parameter21]
+Name=Revision
+Value=A
+
+[Parameter22]
+Name=SCH_SCALE
+Value=1:1
 
 [DiffPairSuffix1]
 Positive=_+
@@ -629,22 +595,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
