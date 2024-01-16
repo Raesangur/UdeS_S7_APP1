@@ -104,6 +104,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FAPMBNMV
 
 [Document4]
+DocumentPath=Schematics\INFO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TPFWFHKX
+
+[Document5]
 DocumentPath=Librairies\raeslib\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=Librairies\raeslib\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=Librairies\raeslib\Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBCIXUKT
 
-[Document7]
+[Document8]
 DocumentPath=Librairies\raeslib\Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONEDVHSB
 
-[Document8]
+[Document9]
 DocumentPath=Schematics\OVERVIEW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMDUORKD
 
-[Document9]
+[Document10]
 DocumentPath=Schematics\MECHANICAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNLXALEL
 
-[Document10]
+[Document11]
 DocumentPath=Schematics\DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBPUFHZK
 
-[Document11]
+[Document12]
 DocumentPath=Librairies\S7CAS_LIB2023.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWJXVTLR
 
-[Document12]
+[Document13]
 DocumentPath=Librairies\S7CAS_LIB2023.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUKEDVSF
 
-[Document13]
+[Document14]
 DocumentPath=Schematics\FPGA_MISC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXEZDIHU
 
-[Document14]
+[Document15]
 DocumentPath=Schematics\FPGA_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTBVUYSJ
 
-[Document15]
+[Document16]
 DocumentPath=Schematics\PROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYWAZQYM
 
-[Document16]
+[Document17]
 DocumentPath=Schematics\POWER_INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQFMFOHO
 
-[Document17]
+[Document18]
 DocumentPath=Schematics\ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBAGKWMY
 
-[Document18]
+[Document19]
 DocumentPath=Schematics\DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPQYGTKV
 
-[Document19]
+[Document20]
 DocumentPath=Schematics\DDR3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=Schematics\MOTOR_CONTROL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,8 +409,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSRXIKGI
 
-[Document21]
-DocumentPath=Schematics\INFO.SchDoc
+[Document22]
+DocumentPath=Schematics\USER_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,7 +424,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TPFWFHKX
+DocumentUniqueId=KOBZXXBH
 
 [ProjectVariant1]
 UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
