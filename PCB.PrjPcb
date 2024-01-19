@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Output
 LogFolderPath=
@@ -109,7 +110,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -228,7 +229,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -330,7 +331,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -347,7 +348,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -364,7 +365,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -381,7 +382,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -415,7 +416,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -432,7 +433,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -464,10 +465,13 @@ UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
 Description=PCB_S7
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=6
 Variation1=Designator=R31|UniqueId=\JJTPGRVE\EQTNUJHD\EGYUEEJK|Kind=1|AlternatePart= 
 Variation2=Designator=R28|UniqueId=\JJTPGRVE\EQTNUJHD\BOAYUHXL|Kind=1|AlternatePart= 
 Variation3=Designator=R29|UniqueId=\JJTPGRVE\EQTNUJHD\ULEOEIDC|Kind=1|AlternatePart= 
+Variation4=Designator=R?|UniqueId=\XIJBDOVS\BYTFMPJA|Kind=1|AlternatePart= 
+Variation5=Designator=C?|UniqueId=\XIJBDOVS\SUSAPPBT|Kind=1|AlternatePart= 
+Variation6=Designator=C?|UniqueId=\XIJBDOVS\TGRBFSOH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
@@ -1314,6 +1318,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1543,6 +1549,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
