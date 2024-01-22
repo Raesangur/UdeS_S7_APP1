@@ -567,7 +567,7 @@ UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
 Description=PCB_S7
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
+VariationCount=11
 Variation1=Designator=R31|UniqueId=\JJTPGRVE\EQTNUJHD\EGYUEEJK|Kind=1|AlternatePart= 
 Variation2=Designator=R28|UniqueId=\JJTPGRVE\EQTNUJHD\BOAYUHXL|Kind=1|AlternatePart= 
 Variation3=Designator=R29|UniqueId=\JJTPGRVE\EQTNUJHD\ULEOEIDC|Kind=1|AlternatePart= 
@@ -578,6 +578,7 @@ Variation7=Designator=R?|UniqueId=\XIJBDOVS\NEWMSWEW|Kind=1|AlternatePart=
 Variation8=Designator=R60|UniqueId=\OGHXPSNZ\AILCKYBP|Kind=1|AlternatePart= 
 Variation9=Designator=R64|UniqueId=\OGHXPSNZ\HBNBEGSG|Kind=1|AlternatePart= 
 Variation10=Designator=R68|UniqueId=\OGHXPSNZ\DORCPKUW|Kind=1|AlternatePart= 
+Variation11=Designator=R23|UniqueId=\QIUQRTOF\LBGRBQGA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
@@ -1734,9 +1735,10 @@ Net5=NetName=+5V|NetColor=clRed
 Net6=NetName=+VCC_OSC|NetColor=$00FF0099
 Net7=NetName=+VCC_PLL|NetColor=$00FF0099
 Net8=NetName=+VDDR|NetColor=$000099FF
-Net9=NetName=+VTT|NetColor=$000099FF
-Net10=NetName=GND|NetColor=$00434343
-Net11=NetName=PGND|NetColor=$00434343
+Net9=NetName=+VREF_DDR|NetColor=$000099FF
+Net10=NetName=+VTT|NetColor=$000099FF
+Net11=NetName=GND|NetColor=$00434343
+Net12=NetName=PGND|NetColor=$00434343
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
