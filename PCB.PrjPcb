@@ -32,7 +32,6 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Output
 LogFolderPath=
@@ -613,12 +612,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUPVOFTH
 
+[Document34]
+DocumentPath=Schematics\USB.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
 Description=PCB_S7
 AllowFabrication=0
 ParameterCount=0
-VariationCount=11
+VariationCount=12
 Variation1=Designator=R31|UniqueId=\JJTPGRVE\EQTNUJHD\EGYUEEJK|Kind=1|AlternatePart= 
 Variation2=Designator=R28|UniqueId=\JJTPGRVE\EQTNUJHD\BOAYUHXL|Kind=1|AlternatePart= 
 Variation3=Designator=R29|UniqueId=\JJTPGRVE\EQTNUJHD\ULEOEIDC|Kind=1|AlternatePart= 
@@ -630,95 +646,96 @@ Variation8=Designator=R60|UniqueId=\OGHXPSNZ\AILCKYBP|Kind=1|AlternatePart=
 Variation9=Designator=R64|UniqueId=\OGHXPSNZ\HBNBEGSG|Kind=1|AlternatePart= 
 Variation10=Designator=R68|UniqueId=\OGHXPSNZ\DORCPKUW|Kind=1|AlternatePart= 
 Variation11=Designator=R23|UniqueId=\QIUQRTOF\LBGRBQGA|Kind=1|AlternatePart= 
+Variation12=Designator=D15|UniqueId=\LBOPGMGZ\MLXXSBTW|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=SCH_SCALE
-Value=1:1
-
-[Parameter2]
-Name=Revision
-Value=A
-
-[Parameter3]
-Name=Project_Revision
-Value=A
-
-[Parameter4]
-Name=Project_Name
-Value=PLEIADES
-
-[Parameter5]
-Name=Project_Group
-Value=Group 1
-
-[Parameter6]
-Name=Project_Global
-Value=UdeS_S7_APP1
-
-[Parameter7]
-Name=Project_Designer4
-Value=Frédéric Bilodeau
-
-[Parameter8]
-Name=Project_Designer3
-Value=bilf0901
-
-[Parameter9]
-Name=Project_Designer2
+Name=Author
 Value=Pascal-Emmanuel Lachance
 
-[Parameter10]
-Name=Project_Designer1
-Value=lacp3102
-
-[Parameter11]
-Name=Project_Date
-Value==CurrentDate
-
-[Parameter12]
-Name=Project
-Value=PLEIADES
-
-[Parameter13]
-Name=PCB_DWG_NO
-Value=PCB_S7.PcbDoc
-
-[Parameter14]
-Name=NotFitted
-Value=DNF
-
-[Parameter15]
-Name=ENG_APP_DATE
-Value=
-
-[Parameter16]
-Name=DSN_APP_DATE
-Value=
-
-[Parameter17]
-Name=DOC_NO_FAB_DWG
-Value=
-
-[Parameter18]
-Name=DOC_NO_BOM
-Value=PCB_S7_BOM.xslx
-
-[Parameter19]
-Name=DOC_NO_ASSY_DWG
-Value=PCB_S7_DWG.PCBDwf
-
-[Parameter20]
-Name=CHK_APP_DATE
-Value=
-
-[Parameter21]
+[Parameter2]
 Name=CAGE_CODE
 Value=
 
-[Parameter22]
-Name=Author
+[Parameter3]
+Name=CHK_APP_DATE
+Value=
+
+[Parameter4]
+Name=DOC_NO_ASSY_DWG
+Value=PCB_S7_DWG.PCBDwf
+
+[Parameter5]
+Name=DOC_NO_BOM
+Value=PCB_S7_BOM.xslx
+
+[Parameter6]
+Name=DOC_NO_FAB_DWG
+Value=
+
+[Parameter7]
+Name=DSN_APP_DATE
+Value=
+
+[Parameter8]
+Name=ENG_APP_DATE
+Value=
+
+[Parameter9]
+Name=NotFitted
+Value=DNF
+
+[Parameter10]
+Name=PCB_DWG_NO
+Value=PCB_S7.PcbDoc
+
+[Parameter11]
+Name=Project
+Value=PLEIADES
+
+[Parameter12]
+Name=Project_Date
+Value==CurrentDate
+
+[Parameter13]
+Name=Project_Designer1
+Value=lacp3102
+
+[Parameter14]
+Name=Project_Designer2
 Value=Pascal-Emmanuel Lachance
+
+[Parameter15]
+Name=Project_Designer3
+Value=bilf0901
+
+[Parameter16]
+Name=Project_Designer4
+Value=Frédéric Bilodeau
+
+[Parameter17]
+Name=Project_Global
+Value=UdeS_S7_APP1
+
+[Parameter18]
+Name=Project_Group
+Value=Group 1
+
+[Parameter19]
+Name=Project_Name
+Value=PLEIADES
+
+[Parameter20]
+Name=Project_Revision
+Value=A
+
+[Parameter21]
+Name=Revision
+Value=A
+
+[Parameter22]
+Name=SCH_SCALE
+Value=1:1
 
 [DiffPairSuffix1]
 Positive=_+
@@ -844,12 +861,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1478,8 +1505,6 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
-Type137=1
-Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1709,8 +1734,6 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
-Type152=1
-Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
