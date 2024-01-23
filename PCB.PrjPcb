@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Output
 LogFolderPath=
@@ -134,7 +135,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BAFGTIDD
 
 [Document6]
 DocumentPath=Librairies\raeslib\Connectors.SchLib
@@ -629,6 +630,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document35]
+DocumentPath=Librairies\raeslib\Misc.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WXDNLVJW
+
 [ProjectVariant1]
 UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
 Description=PCB_S7
@@ -861,22 +879,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1505,6 +1513,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1734,6 +1744,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1780,6 +1792,12 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Symbols.SchLib
+ComponentDesignItemID0=CAP_POLARIZED
+ComponentSymbolReference0=CAP_POLARIZED
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1793,6 +1811,29 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Digikey Part Number
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=Mfr
+ParameterUpdate5=1
+ParameterName6=Operating Temperature
+ParameterUpdate6=1
+ParameterName7=Rated Voltage
+ParameterUpdate7=1
+ParameterName8=Tolerance
+ParameterUpdate8=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=EEU-FC1J101
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1802,20 +1843,25 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+24V|NetColor=clRed
-Net2=NetName=+24V_INPUT|NetColor=clRed
-Net3=NetName=+2V5|NetColor=clRed
-Net4=NetName=+3V3D|NetColor=clRed
-Net5=NetName=+5V|NetColor=clRed
-Net6=NetName=+5V_USB|NetColor=$0032C2F1
-Net7=NetName=+5V_USB_IN|NetColor=$0032C2F1
-Net8=NetName=+VCC_OSC|NetColor=$00FF0099
-Net9=NetName=+VCC_PLL|NetColor=$00FF0099
-Net10=NetName=+VDDR|NetColor=$000099FF
-Net11=NetName=+VREF_DDR|NetColor=$000099FF
-Net12=NetName=+VTT|NetColor=$000099FF
-Net13=NetName=GND|NetColor=$00434343
-Net14=NetName=PGND|NetColor=$00434343
-Net15=NetName=USB_GND|NetColor=$00434343
+Net2=NetName=+24V_FUSED|NetColor=clRed
+Net3=NetName=+24V_FUSED_17|NetColor=clRed
+Net4=NetName=+24V_IN|NetColor=clRed
+Net5=NetName=+24V_INPUT|NetColor=clRed
+Net6=NetName=+24V_RAW|NetColor=clRed
+Net7=NetName=+2V5|NetColor=clRed
+Net8=NetName=+3V3D|NetColor=clRed
+Net9=NetName=+5V|NetColor=clRed
+Net10=NetName=+5V_USB|NetColor=$0032C2F1
+Net11=NetName=+5V_USB_IN|NetColor=$0032C2F1
+Net12=NetName=+VCC_OSC|NetColor=$00FF0099
+Net13=NetName=+VCC_PLL|NetColor=$00FF0099
+Net14=NetName=+VDDR|NetColor=$000099FF
+Net15=NetName=+VREF_DDR|NetColor=$000099FF
+Net16=NetName=+VTT|NetColor=$000099FF
+Net17=NetName=GND|NetColor=$00434343
+Net18=NetName=GND_PWR|NetColor=$00434343
+Net19=NetName=PGND|NetColor=$00434343
+Net20=NetName=USB_GND|NetColor=$00434343
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
