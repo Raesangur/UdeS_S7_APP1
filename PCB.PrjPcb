@@ -1859,9 +1859,10 @@ Net14=NetName=+VDDR|NetColor=$000099FF
 Net15=NetName=+VREF_DDR|NetColor=$000099FF
 Net16=NetName=+VTT|NetColor=$000099FF
 Net17=NetName=GND|NetColor=$00434343
-Net18=NetName=GND_PWR|NetColor=$00434343
-Net19=NetName=PGND|NetColor=$00434343
-Net20=NetName=USB_GND|NetColor=$00434343
+Net18=NetName=GND_IN|NetColor=$00434343
+Net19=NetName=GND_PWR|NetColor=$00434343
+Net20=NetName=PGND|NetColor=$00434343
+Net21=NetName=USB_GND|NetColor=$00434343
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
