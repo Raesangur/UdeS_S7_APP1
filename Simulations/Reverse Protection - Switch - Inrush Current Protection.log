@@ -1,0 +1,25 @@
+Circuit: * E:\GitHub\UdeS_S7_APP1\Simulations\Reverse Protection - Switch - Inrush Current Protection.asc
+
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by D1.
+WARNING: Less than two connections to node NC_02.  This node is used by D1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Jan 24 16:08:06 2024
+Total elapsed time: 0.068 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2384
+traniter = 2355
+tranpoints = 1086
+accept = 1075
+rejected = 11
+matrix size = 20
+fillins = 8
+solver = Normal
+Matrix Compiler1:      83 opcodes  0.3/[0.1]/0.1
+Matrix Compiler2: 1.58 KB object code size  0.1/0.1/[0.1]
+

@@ -1829,11 +1829,6 @@ ParameterName7=Rated Voltage
 ParameterUpdate7=1
 ParameterName8=Tolerance
 ParameterUpdate8=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=EEU-FC1J101
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1855,14 +1850,15 @@ Net10=NetName=+5V_USB|NetColor=$0032C2F1
 Net11=NetName=+5V_USB_IN|NetColor=$0032C2F1
 Net12=NetName=+VCC_OSC|NetColor=$00FF0099
 Net13=NetName=+VCC_PLL|NetColor=$00FF0099
-Net14=NetName=+VDDR|NetColor=$000099FF
-Net15=NetName=+VREF_DDR|NetColor=$000099FF
-Net16=NetName=+VTT|NetColor=$000099FF
-Net17=NetName=GND|NetColor=$00434343
-Net18=NetName=GND_IN|NetColor=$00434343
-Net19=NetName=GND_PWR|NetColor=$00434343
-Net20=NetName=PGND|NetColor=$00434343
-Net21=NetName=USB_GND|NetColor=$00434343
+Net14=NetName=+VCC_USB|NetColor=$0032C2F1
+Net15=NetName=+VDDR|NetColor=$000099FF
+Net16=NetName=+VREF_DDR|NetColor=$000099FF
+Net17=NetName=+VTT|NetColor=$000099FF
+Net18=NetName=GND|NetColor=$00434343
+Net19=NetName=GND_IN|NetColor=$00434343
+Net20=NetName=GND_PWR|NetColor=$00434343
+Net21=NetName=PGND|NetColor=$00434343
+Net22=NetName=USB_GND|NetColor=$00434343
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
