@@ -1975,20 +1975,22 @@ Net13=NetName=+3V3D|NetColor=clRed
 Net14=NetName=+5V|NetColor=clRed
 Net15=NetName=+5V_USB|NetColor=$0032C2F1
 Net16=NetName=+5V_USB_IN|NetColor=$0032C2F1
-Net17=NetName=+VCC_OSC|NetColor=$00FF0099
-Net18=NetName=+VCC_PLL|NetColor=$00FF0099
-Net19=NetName=+VCC_USB|NetColor=$0032C2F1
-Net20=NetName=+VDDR|NetColor=$000099FF
-Net21=NetName=+VREF_DDR|NetColor=$000099FF
-Net22=NetName=+VTT|NetColor=$000099FF
-Net23=NetName=CHASSIS|NetColor=$00134E27
-Net24=NetName=GND|NetColor=$00434343
-Net25=NetName=GND_IN|NetColor=$00434343
-Net26=NetName=GND_MOT|NetColor=$00434343
-Net27=NetName=GND_PWR|NetColor=$00434343
-Net28=NetName=GND_RAW|NetColor=$00434343
-Net29=NetName=PGND|NetColor=$00434343
-Net30=NetName=USB_GND|NetColor=$00434343
+Net17=NetName=+5VA|NetColor=clLime
+Net18=NetName=+VCC_OSC|NetColor=$00FF0099
+Net19=NetName=+VCC_PLL|NetColor=$00FF0099
+Net20=NetName=+VCC_USB|NetColor=$0032C2F1
+Net21=NetName=+VDDR|NetColor=$000099FF
+Net22=NetName=+VREF_DDR|NetColor=$000099FF
+Net23=NetName=+VTT|NetColor=$000099FF
+Net24=NetName=-5VA|NetColor=clLime
+Net25=NetName=CHASSIS|NetColor=$00134E27
+Net26=NetName=GND|NetColor=$00434343
+Net27=NetName=GND_IN|NetColor=$00434343
+Net28=NetName=GND_MOT|NetColor=$00434343
+Net29=NetName=GND_PWR|NetColor=$00434343
+Net30=NetName=GND_RAW|NetColor=$00434343
+Net31=NetName=PGND|NetColor=$00434343
+Net32=NetName=USB_GND|NetColor=$00434343
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
