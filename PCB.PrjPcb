@@ -669,7 +669,7 @@ UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
 Description=PCB_S7
 AllowFabrication=0
 ParameterCount=0
-VariationCount=12
+VariationCount=27
 Variation1=Designator=R31|UniqueId=\JJTPGRVE\EQTNUJHD\EGYUEEJK|Kind=1|AlternatePart= 
 Variation2=Designator=R28|UniqueId=\JJTPGRVE\EQTNUJHD\BOAYUHXL|Kind=1|AlternatePart= 
 Variation3=Designator=R29|UniqueId=\JJTPGRVE\EQTNUJHD\ULEOEIDC|Kind=1|AlternatePart= 
@@ -682,6 +682,21 @@ Variation9=Designator=R64|UniqueId=\OGHXPSNZ\HBNBEGSG|Kind=1|AlternatePart=
 Variation10=Designator=R68|UniqueId=\OGHXPSNZ\DORCPKUW|Kind=1|AlternatePart= 
 Variation11=Designator=R23|UniqueId=\QIUQRTOF\LBGRBQGA|Kind=1|AlternatePart= 
 Variation12=Designator=D15|UniqueId=\LBOPGMGZ\MLXXSBTW|Kind=0|AlternatePart= 
+Variation13=Designator=R4|UniqueId=\OMWTEVRG\JFODVIYY|Kind=1|AlternatePart= 
+Variation14=Designator=R5|UniqueId=\OMWTEVRG\ASRRKXFD|Kind=1|AlternatePart= 
+Variation15=Designator=R6|UniqueId=\OMWTEVRG\HJZYTFSN|Kind=1|AlternatePart= 
+Variation16=Designator=R7|UniqueId=\OMWTEVRG\UWWVDPTA|Kind=1|AlternatePart= 
+Variation17=Designator=R8|UniqueId=\OMWTEVRG\PLJTDWUX|Kind=1|AlternatePart= 
+Variation18=Designator=R9|UniqueId=\OMWTEVRG\FZHBZLPP|Kind=1|AlternatePart= 
+Variation19=Designator=R10|UniqueId=\OMWTEVRG\FDZCQCFO|Kind=1|AlternatePart= 
+Variation20=Designator=R11|UniqueId=\OMWTEVRG\BUTDAMDZ|Kind=1|AlternatePart= 
+Variation21=Designator=R12|UniqueId=\OMWTEVRG\OMTGUMVD|Kind=1|AlternatePart= 
+Variation22=Designator=R13|UniqueId=\OMWTEVRG\LBIJBCCJ|Kind=1|AlternatePart= 
+Variation23=Designator=R14|UniqueId=\OMWTEVRG\MYXYHBXD|Kind=1|AlternatePart= 
+Variation24=Designator=R15|UniqueId=\OMWTEVRG\KQRBFCNM|Kind=1|AlternatePart= 
+Variation25=Designator=R16|UniqueId=\OMWTEVRG\BBJRREBT|Kind=1|AlternatePart= 
+Variation26=Designator=R17|UniqueId=\OMWTEVRG\MGAZYSGL|Kind=1|AlternatePart= 
+Variation27=Designator=R18|UniqueId=\OMWTEVRG\BCUWUMWE|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
