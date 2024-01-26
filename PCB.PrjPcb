@@ -664,12 +664,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document37]
+DocumentPath=Schematics\ETHERNET.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
 Description=PCB_S7
 AllowFabrication=0
 ParameterCount=0
-VariationCount=27
+VariationCount=28
 Variation1=Designator=R31|UniqueId=\JJTPGRVE\EQTNUJHD\EGYUEEJK|Kind=1|AlternatePart= 
 Variation2=Designator=R28|UniqueId=\JJTPGRVE\EQTNUJHD\BOAYUHXL|Kind=1|AlternatePart= 
 Variation3=Designator=R29|UniqueId=\JJTPGRVE\EQTNUJHD\ULEOEIDC|Kind=1|AlternatePart= 
@@ -697,6 +714,7 @@ Variation24=Designator=R15|UniqueId=\OMWTEVRG\KQRBFCNM|Kind=1|AlternatePart=
 Variation25=Designator=R16|UniqueId=\OMWTEVRG\BBJRREBT|Kind=1|AlternatePart= 
 Variation26=Designator=R17|UniqueId=\OMWTEVRG\MGAZYSGL|Kind=1|AlternatePart= 
 Variation27=Designator=R18|UniqueId=\OMWTEVRG\BCUWUMWE|Kind=1|AlternatePart= 
+Variation28=Designator=R104|UniqueId=\JGSYMCJK\QVYGXYGM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
