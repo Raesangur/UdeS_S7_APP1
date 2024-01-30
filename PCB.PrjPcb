@@ -839,7 +839,7 @@ UniqueID=402FB9E3-F575-4E4C-A095-45DD0B10956A
 Description=PCB_S7
 AllowFabrication=0
 ParameterCount=0
-VariationCount=26
+VariationCount=27
 Variation1=Designator=R31|UniqueId=\YGXDNYBN\QIUQRTOF\CRWXYZCC|Kind=1|AlternatePart= 
 Variation2=Designator=R28|UniqueId=\YGXDNYBN\QIUQRTOF\BKARLBAK|Kind=1|AlternatePart= 
 Variation3=Designator=R29|UniqueId=\YGXDNYBN\QIUQRTOF\HKVOKSCU|Kind=1|AlternatePart= 
@@ -866,6 +866,7 @@ Variation23=Designator=R248|UniqueId=\YGXDNYBN\XVGKTHSF\SAVHQKON\DEQYMOHQ|Kind=1
 Variation24=Designator=C134|UniqueId=\YGXDNYBN\XIJBDOVS\TGRBFSOH|Kind=1|AlternatePart= 
 Variation25=Designator=R66|UniqueId=\YGXDNYBN\XIJBDOVS\BYTFMPJA|Kind=1|AlternatePart= 
 Variation26=Designator=C135|UniqueId=\YGXDNYBN\XIJBDOVS\SUSAPPBT|Kind=1|AlternatePart= 
+Variation27=Designator=R?|UniqueId=\YGXDNYBN\DDLHTCCZ\BXQSHTZD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
