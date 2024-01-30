@@ -1,4 +1,6 @@
-Record=TopLevelDocument|FileName=OVERVIEW.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=TITLE.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TITLE.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=OVERVIEW.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=OVERVIEW.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TITLE.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=INFO.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=INFO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=ADC|SchDesignator=ADC|FileName=ADC.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=ADC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=CLOCK|SchDesignator=CLOCK|FileName=CLOCK.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=CLOCK.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=DAC|SchDesignator=DAC|FileName=DAC.SchDoc|SheetNumber=11|SymbolType=Normal|RawFileName=DAC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
@@ -18,5 +20,3 @@ Record=SheetSymbol|SourceDocument=POWER.SchDoc|Designator=FPGA POWER|SchDesignat
 Record=SheetSymbol|SourceDocument=POWER.SchDoc|Designator=MOTOR POWER|SchDesignator=MOTOR POWER|FileName=POWER_MOTORS.SchDoc|SheetNumber=21|SymbolType=Normal|RawFileName=POWER_MOTORS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=POWER.SchDoc|Designator=POWER INPUT|SchDesignator=POWER INPUT|FileName=POWER_INPUT.SchDoc|SheetNumber=17|SymbolType=Normal|RawFileName=POWER_INPUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=POWER.SchDoc|Designator=POWER_SENSING|SchDesignator=POWER_SENSING|FileName=POWER_SENSING.SchDoc|SheetNumber=22|SymbolType=Normal|RawFileName=POWER_SENSING.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=OVERVIEW.SchDoc|FileName=INFO.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=OVERVIEW.SchDoc|FileName=TITLE.SchDoc|SheetNumber=1
