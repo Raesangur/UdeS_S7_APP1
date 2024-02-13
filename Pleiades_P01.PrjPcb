@@ -2196,6 +2196,8 @@ Net53=NetName=GND_RAW|NetColor=$00434343
 Net54=NetName=PCI_GND|NetColor=$00434343
 Net55=NetName=PGND|NetColor=$00434343
 Net56=NetName=USB_GND|NetColor=$00434343
+Net57=NetName=VDD1_PCI|NetColor=$0032C2F1
+Net58=NetName=VDD2_PCI|NetColor=$0032C2F1
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
