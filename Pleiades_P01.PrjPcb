@@ -909,35 +909,15 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Output\BOM\BOM\Bill of Materials-PCB(PCB_S7).xlsx
+DocumentPath=Output\ERC_DRC\DRC.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Output\Bill of Materials-Pleiades_P01(PLEIADES).xlsx
+DocumentPath=Output\ERC_DRC\ERC.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output\Design Rule Check - Pleiades.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Output\DRC-ERC\DRC.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Output\DRC-ERC\ERC.html
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Output\PCB.NET
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=.\.STEP\Pleiades.step
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Output\3D\ExportSTEP\Pleiades.step
+DocumentPath=Output\ERC_DRC\SinglePinNetReporter.REP
 DItemRevisionGUID=
 
 [Parameter1]
