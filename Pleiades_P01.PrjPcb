@@ -85,6 +85,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JQKIXZJO
 
 [Document3]
+DocumentPath=Layout\Pleiades.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GNYTCPOA
+
+[Document4]
 DocumentPath=Schematics\TITLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAPMBNMV
 
-[Document4]
+[Document5]
 DocumentPath=Schematics\INFO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPFWFHKX
 
-[Document5]
+[Document6]
 DocumentPath=Librairies\raeslib\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BAFGTIDD
 
-[Document6]
+[Document7]
 DocumentPath=Librairies\raeslib\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMXAGYXT
 
-[Document7]
+[Document8]
 DocumentPath=Librairies\raeslib\Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBCIXUKT
 
-[Document8]
+[Document9]
 DocumentPath=Librairies\raeslib\Symbols.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONEDVHSB
 
-[Document9]
+[Document10]
 DocumentPath=Schematics\OVERVIEW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMDUORKD
 
-[Document10]
+[Document11]
 DocumentPath=Schematics\MECHANICAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNLXALEL
 
-[Document11]
+[Document12]
 DocumentPath=Schematics\POWER_INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZQFMFOHO
 
-[Document12]
+[Document13]
 DocumentPath=Schematics\CLOCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIGFIUKE
 
-[Document13]
+[Document14]
 DocumentPath=Schematics\DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBPUFHZK
 
-[Document14]
+[Document15]
 DocumentPath=Librairies\S7CAS_LIB2023.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWJXVTLR
 
-[Document15]
+[Document16]
 DocumentPath=Librairies\S7CAS_LIB2023.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUKEDVSF
 
-[Document16]
+[Document17]
 DocumentPath=Schematics\FPGA_MISC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXEZDIHU
 
-[Document17]
+[Document18]
 DocumentPath=Schematics\FPGA_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTBVUYSJ
 
-[Document18]
+[Document19]
 DocumentPath=Schematics\PROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYWAZQYM
 
-[Document19]
+[Document20]
 DocumentPath=Schematics\ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBAGKWMY
 
-[Document20]
+[Document21]
 DocumentPath=Schematics\DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPQYGTKV
 
-[Document21]
+[Document22]
 DocumentPath=Schematics\DDR3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=Schematics\MOTOR_CONTROL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -424,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSRXIKGI
 
-[Document23]
+[Document24]
 DocumentPath=Schematics\USER_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -441,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KOBZXXBH
 
-[Document24]
+[Document25]
 DocumentPath=Schematics\FPGA_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=Schematics\CLOCK.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +492,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=Schematics\USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,7 +509,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYMCERZG
 
-[Document27]
+[Document28]
 DocumentPath=Schematics\ETHERNET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,7 +526,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABUZCJOU
 
-[Document28]
+[Document29]
 DocumentPath=Schematics\PCI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUMJPBZQ
 
-[Document29]
+[Document30]
 DocumentPath=Schematics\POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJJCHCUX
 
-[Document30]
+[Document31]
 DocumentPath=Schematics\POWER_ANALOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -560,7 +577,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASMCSDRU
 
-[Document31]
+[Document32]
 DocumentPath=Schematics\POWER_DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -577,7 +594,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZZLCSOUA
 
-[Document32]
+[Document33]
 DocumentPath=Schematics\POWER_FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -594,7 +611,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPBHSYKL
 
-[Document33]
+[Document34]
 DocumentPath=Schematics\POWER_MOTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDJDCYYO
 
-[Document34]
+[Document35]
 DocumentPath=Librairies\raeslib\Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -628,7 +645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUPVOFTH
 
-[Document35]
+[Document36]
 DocumentPath=Schematics\USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -645,7 +662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=Librairies\raeslib\Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -662,7 +679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXDNLVJW
 
-[Document37]
+[Document38]
 DocumentPath=PCB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -679,7 +696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=Schematics\ETHERNET.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -696,7 +713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=Schematics\POWER_SENSING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -713,7 +730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTOQVDRC
 
-[Document40]
+[Document41]
 DocumentPath=Schematics\POWER_SENSING.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -730,7 +747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=Schematics\ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -747,7 +764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=Schematics\PROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -764,7 +781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=Schematics\MOTOR_CONTROL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -781,7 +798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=Schematics\FPGA_MISC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -798,7 +815,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=Schematics\DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=Schematics\USER_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -832,7 +849,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=Schematics\POWER_MOTORS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,23 +865,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document48]
-DocumentPath=Layout\Pleiades.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNYTCPOA
 
 [Document49]
 DocumentPath=Schematics\PCI.Harness
@@ -896,6 +896,10 @@ DocumentPath=Output\BOM\BOM\Bill of Materials-PCB(PCB_S7).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Output\Design Rule Check - Pleiades.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Output\PCB.NET
 DItemRevisionGUID=
 
@@ -2150,54 +2154,57 @@ Net7=NetName=+1V8D_VOLT|NetColor=$00E8864A
 Net8=NetName=+24V|NetColor=$00751C35
 Net9=NetName=+24V_FILTER|NetColor=clRed
 Net10=NetName=+24V_FILTER_17|NetColor=clRed
-Net11=NetName=+24V_FUSED|NetColor=clRed
-Net12=NetName=+24V_FUSED_17|NetColor=clRed
-Net13=NetName=+24V_IN|NetColor=clRed
-Net14=NetName=+24V_INPUT|NetColor=clRed
-Net15=NetName=+24V_MOT|NetColor=$00FF0099
-Net16=NetName=+24V_PROT|NetColor=clRed
-Net17=NetName=+24V_PROT_17|NetColor=clRed
-Net18=NetName=+24V_RAW|NetColor=clRed
-Net19=NetName=+2V5|NetColor=clRed
-Net20=NetName=+2V5D|NetColor=$000099FF
-Net21=NetName=+3V3_ETH|NetColor=$0032C2F1
-Net22=NetName=+3V3_PCI|NetColor=$0032C2F1
-Net23=NetName=+3V3_SENSE|NetColor=clLime
-Net24=NetName=+3V3A|NetColor=clLime
-Net25=NetName=+3V3A_ETH|NetColor=$0032C2F1
-Net26=NetName=+3V3D|NetColor=$00E8864A
-Net27=NetName=+3V3D_ETH|NetColor=$0032C2F1
-Net28=NetName=+5V|NetColor=clRed
-Net29=NetName=+5V_MOT|NetColor=$00FF0099
-Net30=NetName=+5V_USB|NetColor=$0032C2F1
-Net31=NetName=+5V_USB_IN|NetColor=$0032C2F1
-Net32=NetName=+5V0A|NetColor=clLime
-Net33=NetName=+5VA|NetColor=clFuchsia
-Net34=NetName=+6V|NetColor=clLime
-Net35=NetName=+VCC_OSC|NetColor=$00FF0099
-Net36=NetName=+VCC_PLL|NetColor=$00FF0099
-Net37=NetName=+VCC_USB|NetColor=$0032C2F1
-Net38=NetName=+VDDR|NetColor=$0099E5FF
-Net39=NetName=+VREF_DDR|NetColor=$000099FF
-Net40=NetName=+VTT|NetColor=$000099FF
-Net41=NetName=-3V3A|NetColor=clLime
-Net42=NetName=3V3D|NetColor=$00E8864A
-Net43=NetName=-5V0A|NetColor=clLime
-Net44=NetName=-5VA|NetColor=clLime
-Net45=NetName=-6V|NetColor=clLime
-Net46=NetName=CHASSIS|NetColor=$00134E27
-Net47=NetName=ETHERNET_GROUND|NetColor=$00434343
-Net48=NetName=GND|NetColor=$00434343
-Net49=NetName=GND_FILTER|NetColor=$00434343
-Net50=NetName=GND_IN|NetColor=$00434343
-Net51=NetName=GND_MOT|NetColor=$00434343
-Net52=NetName=GND_PWR|NetColor=$00434343
-Net53=NetName=GND_RAW|NetColor=$00434343
-Net54=NetName=PCI_GND|NetColor=$00434343
-Net55=NetName=PGND|NetColor=$00434343
-Net56=NetName=USB_GND|NetColor=$00434343
-Net57=NetName=VDD1_PCI|NetColor=$0032C2F1
-Net58=NetName=VDD2_PCI|NetColor=$0032C2F1
+Net11=NetName=+24V_FILTER_CM|NetColor=clRed
+Net12=NetName=+24V_FILTER_DM|NetColor=clRed
+Net13=NetName=+24V_FUSED|NetColor=clRed
+Net14=NetName=+24V_FUSED_17|NetColor=clRed
+Net15=NetName=+24V_IN|NetColor=clRed
+Net16=NetName=+24V_INPUT|NetColor=clRed
+Net17=NetName=+24V_MOT|NetColor=$00FF0099
+Net18=NetName=+24V_PROT|NetColor=clRed
+Net19=NetName=+24V_PROT_17|NetColor=clRed
+Net20=NetName=+24V_RAW|NetColor=clRed
+Net21=NetName=+2V5|NetColor=clRed
+Net22=NetName=+2V5D|NetColor=$000099FF
+Net23=NetName=+3V3_ETH|NetColor=$0032C2F1
+Net24=NetName=+3V3_PCI|NetColor=$0032C2F1
+Net25=NetName=+3V3_SENSE|NetColor=clLime
+Net26=NetName=+3V3A|NetColor=clLime
+Net27=NetName=+3V3A_ETH|NetColor=$0032C2F1
+Net28=NetName=+3V3D|NetColor=$00E8864A
+Net29=NetName=+3V3D_ETH|NetColor=$0032C2F1
+Net30=NetName=+5V|NetColor=clRed
+Net31=NetName=+5V_MOT|NetColor=$00FF0099
+Net32=NetName=+5V_USB|NetColor=$0032C2F1
+Net33=NetName=+5V_USB_IN|NetColor=$0032C2F1
+Net34=NetName=+5V0A|NetColor=clLime
+Net35=NetName=+5VA|NetColor=clFuchsia
+Net36=NetName=+6V|NetColor=clLime
+Net37=NetName=+VCC_OSC|NetColor=$00FF0099
+Net38=NetName=+VCC_PLL|NetColor=$00FF0099
+Net39=NetName=+VCC_USB|NetColor=$0032C2F1
+Net40=NetName=+VDDR|NetColor=$0099E5FF
+Net41=NetName=+VREF_DDR|NetColor=$000099FF
+Net42=NetName=+VTT|NetColor=$000099FF
+Net43=NetName=-3V3A|NetColor=clLime
+Net44=NetName=3V3D|NetColor=$00E8864A
+Net45=NetName=-5V0A|NetColor=clLime
+Net46=NetName=-5VA|NetColor=clLime
+Net47=NetName=-6V|NetColor=clLime
+Net48=NetName=CHASSIS|NetColor=$00134E27
+Net49=NetName=ETHERNET_GROUND|NetColor=$00434343
+Net50=NetName=GND|NetColor=$00434343
+Net51=NetName=GND_FILTER|NetColor=$00434343
+Net52=NetName=GND_FILTER_CM|NetColor=$00434343
+Net53=NetName=GND_IN|NetColor=$00434343
+Net54=NetName=GND_MOT|NetColor=$00434343
+Net55=NetName=GND_PWR|NetColor=$00434343
+Net56=NetName=GND_RAW|NetColor=$00434343
+Net57=NetName=PCI_GND|NetColor=$00434343
+Net58=NetName=PGND|NetColor=$00434343
+Net59=NetName=USB_GND|NetColor=$00434343
+Net60=NetName=VDD1_PCI|NetColor=$0032C2F1
+Net61=NetName=VDD2_PCI|NetColor=$0032C2F1
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
