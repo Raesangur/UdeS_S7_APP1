@@ -926,14 +926,18 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Output\ERC_DRC\DRC.html
+DocumentPath=Output\Design Rule Check - Pleiades.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Output\ERC_DRC\ERC.html
+DocumentPath=Output\ERC_DRC\DRC.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Output\ERC_DRC\ERC.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Output\ERC_DRC\SinglePinNetReporter.REP
 DItemRevisionGUID=
 
