@@ -947,14 +947,18 @@ DocumentPath=Output\Design Rule Check - Pleiades.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Output\ERC_DRC\DRC.html
+DocumentPath=Output\Design Rule Check - Pleiades_PP.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output\ERC_DRC\ERC.html
+DocumentPath=Output\ERC_DRC\DRC.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Output\ERC_DRC\ERC.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Output\ERC_DRC\SinglePinNetReporter.REP
 DItemRevisionGUID=
 
@@ -2257,19 +2261,20 @@ Net51=NetName=-6V|NetColor=clLime
 Net52=NetName=CHASSIS|NetColor=$00134E27
 Net53=NetName=ETHERNET_GROUND|NetColor=$00434343
 Net54=NetName=GND|NetColor=$00434343
-Net55=NetName=GND_FILTER|NetColor=$00434343
-Net56=NetName=GND_FILTER_CM|NetColor=$00434343
-Net57=NetName=GND_FILTER_DM|NetColor=$00434343
-Net58=NetName=GND_IN|NetColor=$00434343
-Net59=NetName=GND_MOT|NetColor=$00434343
-Net60=NetName=GND_PWR|NetColor=$00434343
-Net61=NetName=GND_RAW|NetColor=$00434343
-Net62=NetName=NetQ1_2|NetColor=clRed
-Net63=NetName=PCI_GND|NetColor=$00434343
-Net64=NetName=PGND|NetColor=$00434343
-Net65=NetName=USB_GND|NetColor=$00434343
-Net66=NetName=VDD1_PCI|NetColor=$0032C2F1
-Net67=NetName=VDD2_PCI|NetColor=$0032C2F1
+Net55=NetName=GND_CAN|NetColor=$00434343
+Net56=NetName=GND_FILTER|NetColor=$00434343
+Net57=NetName=GND_FILTER_CM|NetColor=$00434343
+Net58=NetName=GND_FILTER_DM|NetColor=$00434343
+Net59=NetName=GND_IN|NetColor=$00434343
+Net60=NetName=GND_MOT|NetColor=$00434343
+Net61=NetName=GND_PWR|NetColor=$00434343
+Net62=NetName=GND_RAW|NetColor=$00434343
+Net63=NetName=NetQ1_2|NetColor=clRed
+Net64=NetName=PCI_GND|NetColor=$00434343
+Net65=NetName=PGND|NetColor=$00434343
+Net66=NetName=USB_GND|NetColor=$00434343
+Net67=NetName=VDD1_PCI|NetColor=$0032C2F1
+Net68=NetName=VDD2_PCI|NetColor=$0032C2F1
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
