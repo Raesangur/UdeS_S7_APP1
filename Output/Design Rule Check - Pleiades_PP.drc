@@ -1,563 +1,23 @@
 Protel Design System Design Rule Check
 PCB File : E:\GitHub\UdeS_S7_APP1\Layout\Pleiades_PP.PcbDoc
-Date     : 2024-02-20
-Time     : 21:51:14
-
-ERROR : More than 500 violations detected, DRC was stopped
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
+Date     : 2024-02-22
+Time     : 15:58:43
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=3.589mil) (Max=5.955mil) (Preferred=3.677mil) (InNetClass('S50'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=5.66mil) (Max=8.89mil) (Preferred=5.755mil) (InNetClass('DDR_DATA'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=5.66mil) (Max=8.89mil) (Preferred=5.755mil) (InNetClass('ACC'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=3mil) (Max=25mil) (Preferred=3.5mil) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=3.589mil) (Max=5.955mil) (Preferred=3.677mil) (InNetClass('PROM_D[0..7]'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=6mil) (Max=1000mil) (All)
+Processing Rule : Length Constraint (Min=1497.5mil) (Max=1502.5mil) (InNetClass('DQL'))
 Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=2mil) (IsPad),(All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Length Constraint (Min=1497.5mil) (Max=1502.5mil) (All)
-   Violation between Length Constraint: (188.176mil < 1497.5mil) Net \CS Actual Length = 188.176mil
-   Violation between Length Constraint: (257.614mil < 1497.5mil) Net \DDR_CS Actual Length = 257.614mil
-   Violation between Length Constraint: (340.784mil < 1497.5mil) Net \DDR_RESET Actual Length = 340.784mil
-   Violation between Length Constraint: (23159.011mil > 1502.5mil) Net \ENABLE_ISO Actual Length = 23159.011mil
-   Violation between Length Constraint: (4018.11mil > 1502.5mil) Net \IRQ Actual Length = 4018.11mil
-   Violation between Length Constraint: (295.019mil < 1497.5mil) Net \PCI_PERST_16 Actual Length = 295.019mil
-   Violation between Length Constraint: (21947.6mil > 1502.5mil) Net \PCI_RST Actual Length = 21947.6mil
-   Violation between Length Constraint: (32540.03mil > 1502.5mil) Net \PCI_TRST Actual Length = 32540.03mil
-   Violation between Length Constraint: (450.864mil < 1497.5mil) Net \PCI_TRST_16 Actual Length = 450.864mil
-   Violation between Length Constraint: (450.865mil < 1497.5mil) Net \PCI_WAKE_16 Actual Length = 450.865mil
-   Violation between Length Constraint: (191.849mil < 1497.5mil) Net \PERST_PCI Actual Length = 191.849mil
-   Violation between Length Constraint: (277.094mil < 1497.5mil) Net \PLL_SYNC Actual Length = 277.094mil
-   Violation between Length Constraint: (191.849mil < 1497.5mil) Net \PRSNT_PCI Actual Length = 191.849mil
-   Violation between Length Constraint: (271.345mil < 1497.5mil) Net \RST_DAC Actual Length = 271.345mil
-   Violation between Length Constraint: (618.763mil < 1497.5mil) Net \RST_ETH_15 Actual Length = 618.763mil
-   Violation between Length Constraint: (186.337mil < 1497.5mil) Net \SENSE_CS Actual Length = 186.337mil
-   Violation between Length Constraint: (22216.951mil > 1502.5mil) Net \SLEEP_ISO Actual Length = 22216.951mil
-   Violation between Length Constraint: (23762.557mil > 1502.5mil) Net \TAG_RST Actual Length = 23762.557mil
-   Violation between Length Constraint: (5620.436mil > 1502.5mil) Net \TAG_TRST_7 Actual Length = 5620.436mil
-   Violation between Length Constraint: (2611.747mil > 1502.5mil) Net \VBUS_DETECT_14 Actual Length = 2611.747mil
-   Violation between Length Constraint: (191.849mil < 1497.5mil) Net \WAKE_PCI Actual Length = 191.849mil
-   Violation between Length Constraint: (176.337mil < 1497.5mil) Net \WDT_EN Actual Length = 176.337mil
-   Violation between Length Constraint: (257.616mil < 1497.5mil) Net \WE Actual Length = 257.616mil
-   Violation between Length Constraint: (3038.198mil > 1502.5mil) Net +12V Actual Length = 3038.198mil
-   Violation between Length Constraint: (191.338mil < 1497.5mil) Net +12V_CURR_23 Actual Length = 191.338mil
-   Violation between Length Constraint: (4900.553mil > 1502.5mil) Net +12V_MOT_SHUNT+_22 Actual Length = 4900.553mil
-   Violation between Length Constraint: (1124.555mil < 1497.5mil) Net +12V_PCI Actual Length = 1124.555mil
-   Violation between Length Constraint: (56603.716mil > 1502.5mil) Net +12V_SHUNT+_17 Actual Length = 56603.716mil
-   Violation between Length Constraint: (2406.351mil > 1502.5mil) Net +1V2_VOLT Actual Length = 2406.351mil
-   Violation between Length Constraint: (294.506mil < 1497.5mil) Net +1V2D_CURR_23 Actual Length = 294.506mil
-   Violation between Length Constraint: (294.506mil < 1497.5mil) Net +1V8D_CURR_23 Actual Length = 294.506mil
-   Violation between Length Constraint: (22256.371mil > 1502.5mil) Net +1V8D_SHUNT-_17 Actual Length = 22256.371mil
-   Violation between Length Constraint: (308.508mil < 1497.5mil) Net +24V_FILTER_CM Actual Length = 308.508mil
-   Violation between Length Constraint: (391.675mil < 1497.5mil) Net +24V_FILTER_DM Actual Length = 391.675mil
-   Violation between Length Constraint: (987.355mil < 1497.5mil) Net +24V_FUSE Actual Length = 987.355mil
-   Violation between Length Constraint: (738.794mil < 1497.5mil) Net +24V_IN Actual Length = 738.794mil
-   Violation between Length Constraint: (323.818mil < 1497.5mil) Net +24V_PROT_18 Actual Length = 323.818mil
-   Violation between Length Constraint: (0mil < 1497.5mil) Net +24V_RAW Actual Length = 0mil
-   Violation between Length Constraint: (357.677mil < 1497.5mil) Net +2V5_VOLT_23 Actual Length = 357.677mil
-   Violation between Length Constraint: (4347.734mil > 1502.5mil) Net +3V3_PCI Actual Length = 4347.734mil
-   Violation between Length Constraint: (42288.999mil > 1502.5mil) Net +3V3A_EN Actual Length = 42288.999mil
-   Violation between Length Constraint: (534.763mil < 1497.5mil) Net +3V3A_ETH Actual Length = 534.763mil
-   Violation between Length Constraint: (19706.911mil > 1502.5mil) Net +3V3D Actual Length = 19706.911mil
-   Violation between Length Constraint: (1033.686mil < 1497.5mil) Net +5V Actual Length = 1033.686mil
-   Violation between Length Constraint: (597.715mil < 1497.5mil) Net +5V_CAN Actual Length = 597.715mil
-   Violation between Length Constraint: (2494.096mil > 1502.5mil) Net +5V_MOT Actual Length = 2494.096mil
-   Violation between Length Constraint: (41891.361mil > 1502.5mil) Net +5V0A_EN Actual Length = 41891.361mil
-   Violation between Length Constraint: (1787.645mil > 1502.5mil) Net +6V Actual Length = 1787.645mil
-   Violation between Length Constraint: (166.34mil < 1497.5mil) Net +6V_EN Actual Length = 166.34mil
-   Violation between Length Constraint: (64125.253mil > 1502.5mil) Net +6V_SHUNT-_17 Actual Length = 64125.253mil
-   Violation between Length Constraint: (357.675mil < 1497.5mil) Net +6V0_VOLT_23 Actual Length = 357.675mil
-   Violation between Length Constraint: (431.333mil < 1497.5mil) Net +VREF_DDR Actual Length = 431.333mil
-   Violation between Length Constraint: (166.338mil < 1497.5mil) Net -5V0A_EN Actual Length = 166.338mil
-   Violation between Length Constraint: (46739.461mil > 1502.5mil) Net -6V_SHUNT+_17 Actual Length = 46739.461mil
-   Violation between Length Constraint: (191.336mil < 1497.5mil) Net -6V0_CURR_23 Actual Length = 191.336mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net A0 Actual Length = 257.615mil
-   Violation between Length Constraint: (269.629mil < 1497.5mil) Net A11 Actual Length = 269.629mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net A2 Actual Length = 257.615mil
-   Violation between Length Constraint: (257.616mil < 1497.5mil) Net A5 Actual Length = 257.616mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net A7 Actual Length = 257.615mil
-   Violation between Length Constraint: (261.001mil < 1497.5mil) Net ADC_CM_10 Actual Length = 261.001mil
-   Violation between Length Constraint: (178.176mil < 1497.5mil) Net ADC_CTRL1 Actual Length = 178.176mil
-   Violation between Length Constraint: (178.176mil < 1497.5mil) Net ADC_CTRL2 Actual Length = 178.176mil
-   Violation between Length Constraint: (294.507mil < 1497.5mil) Net ADCO_23 Actual Length = 294.507mil
-   Violation between Length Constraint: (348.003mil < 1497.5mil) Net AOUT1_12 Actual Length = 348.003mil
-   Violation between Length Constraint: (7570.736mil > 1502.5mil) Net AUXIN Actual Length = 7570.736mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net BA2 Actual Length = 257.615mil
-   Violation between Length Constraint: (348.002mil < 1497.5mil) Net BOUT1_12 Actual Length = 348.002mil
-   Violation between Length Constraint: (348.003mil < 1497.5mil) Net BOUT2_12 Actual Length = 348.003mil
-   Violation between Length Constraint: (612.282mil < 1497.5mil) Net BTN_1 Actual Length = 612.282mil
-   Violation between Length Constraint: (294.506mil < 1497.5mil) Net CAN_12_H Actual Length = 294.506mil
-   Violation between Length Constraint: (211.337mil < 1497.5mil) Net CAN_12_L Actual Length = 211.337mil
-   Violation between Length Constraint: (287.222mil < 1497.5mil) Net CAN_AUX_OUT_12 Actual Length = 287.222mil
-   Violation between Length Constraint: (263.286mil < 1497.5mil) Net CC1_14 Actual Length = 263.286mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net CK_N Actual Length = 257.615mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net CK_P Actual Length = 257.615mil
-   Violation between Length Constraint: (166.339mil < 1497.5mil) Net CLK Actual Length = 166.339mil
-   Violation between Length Constraint: (258.207mil < 1497.5mil) Net CLK_ADC_400MHZ_3_N Actual Length = 258.207mil
-   Violation between Length Constraint: (347.125mil < 1497.5mil) Net CLK_ADC_400MHZ_3_P Actual Length = 347.125mil
-   Violation between Length Constraint: (173.175mil < 1497.5mil) Net CLK_ADC_OUT_P Actual Length = 173.175mil
-   Violation between Length Constraint: (175.038mil < 1497.5mil) Net CLK_DAC_200MHZ_3_P Actual Length = 175.038mil
-   Violation between Length Constraint: (262.092mil < 1497.5mil) Net CLK_FPGA_100MHZ_N Actual Length = 262.092mil
-   Violation between Length Constraint: (173.176mil < 1497.5mil) Net CLK_FPGA_100MHZ_P Actual Length = 173.176mil
-   Violation between Length Constraint: (28712.441mil > 1502.5mil) Net COL_CONFIG0 Actual Length = 28712.441mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net D0_N Actual Length = 181.877mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net D0_P Actual Length = 181.877mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net D1_N Actual Length = 181.877mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net D1_P Actual Length = 181.877mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net D2_P Actual Length = 181.877mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net D7_N Actual Length = 181.877mil
-   Violation between Length Constraint: (3891.732mil > 1502.5mil) Net DA10_N Actual Length = 3891.732mil
-   Violation between Length Constraint: (3950.787mil > 1502.5mil) Net DA12_P Actual Length = 3950.787mil
-   Violation between Length Constraint: (4049.213mil > 1502.5mil) Net DA2_P Actual Length = 4049.213mil
-   Violation between Length Constraint: (3950.787mil > 1502.5mil) Net DA4_N Actual Length = 3950.787mil
-   Violation between Length Constraint: (3950.787mil > 1502.5mil) Net DA6_N Actual Length = 3950.787mil
-   Violation between Length Constraint: (4049.213mil > 1502.5mil) Net DA6_P Actual Length = 4049.213mil
-   Violation between Length Constraint: (3559.055mil > 1502.5mil) Net DB12_P Actual Length = 3559.055mil
-   Violation between Length Constraint: (3694.882mil > 1502.5mil) Net DB2_N Actual Length = 3694.882mil
-   Violation between Length Constraint: (3657.48mil > 1502.5mil) Net DB6_N Actual Length = 3657.48mil
-   Violation between Length Constraint: (3421.26mil > 1502.5mil) Net DB8_N Actual Length = 3421.26mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net DCI_N Actual Length = 181.877mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net DCI_P Actual Length = 181.877mil
-   Violation between Length Constraint: (1826.08mil > 1502.5mil) Net DD_14_- Actual Length = 1826.08mil
-   Violation between Length Constraint: (1854.426mil > 1502.5mil) Net DD_14_+ Actual Length = 1854.426mil
-   Violation between Length Constraint: (33554.515mil > 1502.5mil) Net DDR_PWR_EN Actual Length = 33554.515mil
-   Violation between Length Constraint: (166.338mil < 1497.5mil) Net DDR_SW_EN Actual Length = 166.338mil
-   Violation between Length Constraint: (24860.301mil > 1502.5mil) Net DDR_VTT_EN Actual Length = 24860.301mil
-   Violation between Length Constraint: (11223.018mil > 1502.5mil) Net DEBUG_LED_2 Actual Length = 11223.018mil
-   Violation between Length Constraint: (17187.573mil > 1502.5mil) Net DEBUG_LED_3 Actual Length = 17187.573mil
-   Violation between Length Constraint: (354.173mil < 1497.5mil) Net DECAY_12 Actual Length = 354.173mil
-   Violation between Length Constraint: (4466.07mil > 1502.5mil) Net DIR_12 Actual Length = 4466.07mil
-   Violation between Length Constraint: (98.169mil < 1497.5mil) Net EXT_TCK_7 Actual Length = 98.169mil
-   Violation between Length Constraint: (98.169mil < 1497.5mil) Net EXT_TDI_7 Actual Length = 98.169mil
-   Violation between Length Constraint: (98.169mil < 1497.5mil) Net EXT_TDO_7 Actual Length = 98.169mil
-   Violation between Length Constraint: (98.169mil < 1497.5mil) Net EXT_TMS_7 Actual Length = 98.169mil
-   Violation between Length Constraint: (176.339mil < 1497.5mil) Net FAN_PWM Actual Length = 176.339mil
-   Violation between Length Constraint: (259.507mil < 1497.5mil) Net FAN_TACH Actual Length = 259.507mil
-   Violation between Length Constraint: (181.877mil < 1497.5mil) Net FRAME_N Actual Length = 181.877mil
-   Violation between Length Constraint: (308.508mil < 1497.5mil) Net GND_FILTER_CM Actual Length = 308.508mil
-   Violation between Length Constraint: (391.676mil < 1497.5mil) Net GND_FILTER_DM Actual Length = 391.676mil
-   Violation between Length Constraint: (83.17mil < 1497.5mil) Net GND_RAW Actual Length = 83.17mil
-   Violation between Length Constraint: (573.039mil < 1497.5mil) Net HOT_PLUG_16 Actual Length = 573.039mil
-   Violation between Length Constraint: (276.344mil < 1497.5mil) Net HSI0_N Actual Length = 276.344mil
-   Violation between Length Constraint: (276.344mil < 1497.5mil) Net HSI0_P Actual Length = 276.344mil
-   Violation between Length Constraint: (42910.286mil > 1502.5mil) Net HSO0_N Actual Length = 42910.286mil
-   Violation between Length Constraint: (42896.507mil > 1502.5mil) Net HSO0_P Actual Length = 42896.507mil
-   Violation between Length Constraint: (172.084mil < 1497.5mil) Net INTRP Actual Length = 172.084mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO0 Actual Length = 93.169mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO1 Actual Length = 93.169mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO2 Actual Length = 93.169mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO3 Actual Length = 93.169mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO4 Actual Length = 93.169mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO5 Actual Length = 93.169mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO6 Actual Length = 93.169mil
-   Violation between Length Constraint: (93.169mil < 1497.5mil) Net IO7 Actual Length = 93.169mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net LDM Actual Length = 257.615mil
-   Violation between Length Constraint: (166.338mil < 1497.5mil) Net M0_8 Actual Length = 166.338mil
-   Violation between Length Constraint: (495.629mil < 1497.5mil) Net M1_8 Actual Length = 495.629mil
-   Violation between Length Constraint: (188.177mil < 1497.5mil) Net MISO Actual Length = 188.177mil
-   Violation between Length Constraint: (279.507mil < 1497.5mil) Net MOT_ADC_VREF_22 Actual Length = 279.507mil
-   Violation between Length Constraint: (40598.039mil > 1502.5mil) Net MOT_CURR_SPI.\CS Actual Length = 40598.039mil
-   Violation between Length Constraint: (40601.779mil > 1502.5mil) Net MOT_CURR_SPI.DO Actual Length = 40601.779mil
-   Violation between Length Constraint: (40730.519mil > 1502.5mil) Net MOT_CURR_SPI.FS Actual Length = 40730.519mil
-   Violation between Length Constraint: (40666.149mil > 1502.5mil) Net MOT_CURR_SPI.SCLK Actual Length = 40666.149mil
-   Violation between Length Constraint: (1138.695mil < 1497.5mil) Net NetC1_1 Actual Length = 1138.695mil
-   Violation between Length Constraint: (249.507mil < 1497.5mil) Net NetC120_1 Actual Length = 249.507mil
-   Violation between Length Constraint: (255.254mil < 1497.5mil) Net NetC178_1 Actual Length = 255.254mil
-   Violation between Length Constraint: (255.256mil < 1497.5mil) Net NetC178_2 Actual Length = 255.256mil
-   Violation between Length Constraint: (590.117mil < 1497.5mil) Net NetC179_1 Actual Length = 590.117mil
-   Violation between Length Constraint: (6298.43mil > 1502.5mil) Net NetC188_1 Actual Length = 6298.43mil
-   Violation between Length Constraint: (7068.114mil > 1502.5mil) Net NetC189_1 Actual Length = 7068.114mil
-   Violation between Length Constraint: (7054.334mil > 1502.5mil) Net NetC190_1 Actual Length = 7054.334mil
-   Violation between Length Constraint: (1138.694mil < 1497.5mil) Net NetC2_1 Actual Length = 1138.694mil
-   Violation between Length Constraint: (0mil < 1497.5mil) Net NetC273_1 Actual Length = 0mil
-   Violation between Length Constraint: (6051.78mil > 1502.5mil) Net NetC281_2 Actual Length = 6051.78mil
-   Violation between Length Constraint: (6882.487mil > 1502.5mil) Net NetC282_2 Actual Length = 6882.487mil
-   Violation between Length Constraint: (254.507mil < 1497.5mil) Net NetC284_1 Actual Length = 254.507mil
-   Violation between Length Constraint: (1326.336mil < 1497.5mil) Net NetC284_2 Actual Length = 1326.336mil
-   Violation between Length Constraint: (254.509mil < 1497.5mil) Net NetC285_2 Actual Length = 254.509mil
-   Violation between Length Constraint: (254.508mil < 1497.5mil) Net NetC300_1 Actual Length = 254.508mil
-   Violation between Length Constraint: (1326.336mil < 1497.5mil) Net NetC300_2 Actual Length = 1326.336mil
-   Violation between Length Constraint: (254.509mil < 1497.5mil) Net NetC301_2 Actual Length = 254.509mil
-   Violation between Length Constraint: (249.507mil < 1497.5mil) Net NetC340_1 Actual Length = 249.507mil
-   Violation between Length Constraint: (249.506mil < 1497.5mil) Net NetC340_2 Actual Length = 249.506mil
-   Violation between Length Constraint: (249.506mil < 1497.5mil) Net NetC341_2 Actual Length = 249.506mil
-   Violation between Length Constraint: (266.909mil < 1497.5mil) Net NetC342_1 Actual Length = 266.909mil
-   Violation between Length Constraint: (266.909mil < 1497.5mil) Net NetC346_1 Actual Length = 266.909mil
-   Violation between Length Constraint: (266.909mil < 1497.5mil) Net NetC347_1 Actual Length = 266.909mil
-   Violation between Length Constraint: (266.909mil < 1497.5mil) Net NetC348_1 Actual Length = 266.909mil
-   Violation between Length Constraint: (31930.792mil > 1502.5mil) Net NetC349_1 Actual Length = 31930.792mil
-   Violation between Length Constraint: (266.909mil < 1497.5mil) Net NetC350_1 Actual Length = 266.909mil
-   Violation between Length Constraint: (266.909mil < 1497.5mil) Net NetC351_1 Actual Length = 266.909mil
-   Violation between Length Constraint: (266.909mil < 1497.5mil) Net NetC352_1 Actual Length = 266.909mil
-   Violation between Length Constraint: (4759.026mil > 1502.5mil) Net NetC396_1 Actual Length = 4759.026mil
-   Violation between Length Constraint: (3816.114mil > 1502.5mil) Net NetC397_1 Actual Length = 3816.114mil
-   Violation between Length Constraint: (3847.523mil > 1502.5mil) Net NetC397_2 Actual Length = 3847.523mil
-   Violation between Length Constraint: (3272.545mil > 1502.5mil) Net NetC399_1 Actual Length = 3272.545mil
-   Violation between Length Constraint: (402.077mil < 1497.5mil) Net NetC415_1 Actual Length = 402.077mil
-   Violation between Length Constraint: (515.245mil < 1497.5mil) Net NetC415_2 Actual Length = 515.245mil
-   Violation between Length Constraint: (8127.112mil > 1502.5mil) Net NetC447_1 Actual Length = 8127.112mil
-   Violation between Length Constraint: (281.192mil < 1497.5mil) Net NetC449_1 Actual Length = 281.192mil
-   Violation between Length Constraint: (281.194mil < 1497.5mil) Net NetC452_1 Actual Length = 281.194mil
-   Violation between Length Constraint: (249.507mil < 1497.5mil) Net NetC461_2 Actual Length = 249.507mil
-   Violation between Length Constraint: (1566.713mil > 1502.5mil) Net NetC462_1 Actual Length = 1566.713mil
-   Violation between Length Constraint: (3800.349mil > 1502.5mil) Net NetC479_1 Actual Length = 3800.349mil
-   Violation between Length Constraint: (420.846mil < 1497.5mil) Net NetC482_1 Actual Length = 420.846mil
-   Violation between Length Constraint: (281.193mil < 1497.5mil) Net NetC506_1 Actual Length = 281.193mil
-   Violation between Length Constraint: (9851.518mil > 1502.5mil) Net NetC508_1 Actual Length = 9851.518mil
-   Violation between Length Constraint: (9457.818mil > 1502.5mil) Net NetC509_1 Actual Length = 9457.818mil
-   Violation between Length Constraint: (9068.055mil > 1502.5mil) Net NetC510_1 Actual Length = 9068.055mil
-   Violation between Length Constraint: (481.101mil < 1497.5mil) Net NetC547_1 Actual Length = 481.101mil
-   Violation between Length Constraint: (597.283mil < 1497.5mil) Net NetC551_1 Actual Length = 597.283mil
-   Violation between Length Constraint: (309.506mil < 1497.5mil) Net NetC554_1 Actual Length = 309.506mil
-   Violation between Length Constraint: (309.506mil < 1497.5mil) Net NetC555_1 Actual Length = 309.506mil
-   Violation between Length Constraint: (436.693mil < 1497.5mil) Net NetC557_1 Actual Length = 436.693mil
-   Violation between Length Constraint: (347.775mil < 1497.5mil) Net NetC558_1 Actual Length = 347.775mil
-   Violation between Length Constraint: (374.674mil < 1497.5mil) Net NetC578_1 Actual Length = 374.674mil
-   Violation between Length Constraint: (750.766mil < 1497.5mil) Net NetC585_2 Actual Length = 750.766mil
-   Violation between Length Constraint: (1355.095mil < 1497.5mil) Net NetC586_2 Actual Length = 1355.095mil
-   Violation between Length Constraint: (1138.695mil < 1497.5mil) Net NetC6_1 Actual Length = 1138.695mil
-   Violation between Length Constraint: (1138.695mil < 1497.5mil) Net NetC7_1 Actual Length = 1138.695mil
-   Violation between Length Constraint: (1138.694mil < 1497.5mil) Net NetC8_1 Actual Length = 1138.694mil
-   Violation between Length Constraint: (24536.529mil > 1502.5mil) Net NetD18_1 Actual Length = 24536.529mil
-   Violation between Length Constraint: (24622.977mil > 1502.5mil) Net NetD18_2 Actual Length = 24622.977mil
-   Violation between Length Constraint: (2368.873mil > 1502.5mil) Net NetD20_1 Actual Length = 2368.873mil
-   Violation between Length Constraint: (2427.928mil > 1502.5mil) Net NetD21_1 Actual Length = 2427.928mil
-   Violation between Length Constraint: (2101.157mil > 1502.5mil) Net NetD23_1 Actual Length = 2101.157mil
-   Violation between Length Constraint: (2172.023mil > 1502.5mil) Net NetD24_1 Actual Length = 2172.023mil
-   Violation between Length Constraint: (3463.359mil > 1502.5mil) Net NetD33_1 Actual Length = 3463.359mil
-   Violation between Length Constraint: (3553.91mil > 1502.5mil) Net NetD34_1 Actual Length = 3553.91mil
-   Violation between Length Constraint: (5805.774mil > 1502.5mil) Net NetD4_1 Actual Length = 5805.774mil
-   Violation between Length Constraint: (2290.133mil > 1502.5mil) Net NetD40_1 Actual Length = 2290.133mil
-   Violation between Length Constraint: (2553.912mil > 1502.5mil) Net NetD41_1 Actual Length = 2553.912mil
-   Violation between Length Constraint: (553.916mil < 1497.5mil) Net NetD45_1 Actual Length = 553.916mil
-   Violation between Length Constraint: (2176.901mil > 1502.5mil) Net NetD45_2 Actual Length = 2176.901mil
-   Violation between Length Constraint: (1057.852mil < 1497.5mil) Net NetD46_1 Actual Length = 1057.852mil
-   Violation between Length Constraint: (922.026mil < 1497.5mil) Net NetD47_1 Actual Length = 922.026mil
-   Violation between Length Constraint: (1061.789mil < 1497.5mil) Net NetD48_1 Actual Length = 1061.789mil
-   Violation between Length Constraint: (1872.811mil > 1502.5mil) Net NetD49_1 Actual Length = 1872.811mil
-   Violation between Length Constraint: (2400.372mil > 1502.5mil) Net NetD5_1 Actual Length = 2400.372mil
-   Violation between Length Constraint: (549.979mil < 1497.5mil) Net NetD50_1 Actual Length = 549.979mil
-   Violation between Length Constraint: (1814.697mil > 1502.5mil) Net NetD50_2 Actual Length = 1814.697mil
-   Violation between Length Constraint: (710.629mil < 1497.5mil) Net NetD51_1 Actual Length = 710.629mil
-   Violation between Length Constraint: (1853.126mil > 1502.5mil) Net NetD54_1 Actual Length = 1853.126mil
-   Violation between Length Constraint: (1916.118mil > 1502.5mil) Net NetD55_1 Actual Length = 1916.118mil
-   Violation between Length Constraint: (2622.751mil > 1502.5mil) Net NetISO2_12 Actual Length = 2622.751mil
-   Violation between Length Constraint: (3171.332mil > 1502.5mil) Net NetISO2_5 Actual Length = 3171.332mil
-   Violation between Length Constraint: (19247.404mil > 1502.5mil) Net NetJ1_10 Actual Length = 19247.404mil
-   Violation between Length Constraint: (19117.877mil > 1502.5mil) Net NetJ1_7 Actual Length = 19117.877mil
-   Violation between Length Constraint: (27430.655mil > 1502.5mil) Net NetJ10_3 Actual Length = 27430.655mil
-   Violation between Length Constraint: (27783.41mil > 1502.5mil) Net NetJ10_4 Actual Length = 27783.41mil
-   Violation between Length Constraint: (1677.945mil > 1502.5mil) Net NetJ23_1 Actual Length = 1677.945mil
-   Violation between Length Constraint: (191.338mil < 1497.5mil) Net NetJ25_1 Actual Length = 191.338mil
-   Violation between Length Constraint: (24605.899mil > 1502.5mil) Net NetJ34_2 Actual Length = 24605.899mil
-   Violation between Length Constraint: (87.169mil < 1497.5mil) Net NetJ38_A6 Actual Length = 87.169mil
-   Violation between Length Constraint: (278.62mil < 1497.5mil) Net NetJ38_A7 Actual Length = 278.62mil
-   Violation between Length Constraint: (1603.83mil > 1502.5mil) Net NetJ39_11 Actual Length = 1603.83mil
-   Violation between Length Constraint: (263.21mil < 1497.5mil) Net NetL11_1 Actual Length = 263.21mil
-   Violation between Length Constraint: (263.21mil < 1497.5mil) Net NetL12_1 Actual Length = 263.21mil
-   Violation between Length Constraint: (2869.088mil > 1502.5mil) Net NetL14_2 Actual Length = 2869.088mil
-   Violation between Length Constraint: (3004.914mil > 1502.5mil) Net NetL14_3 Actual Length = 3004.914mil
-   Violation between Length Constraint: (417.755mil < 1497.5mil) Net NetL5_2 Actual Length = 417.755mil
-   Violation between Length Constraint: (4674.971mil > 1502.5mil) Net NetL6_1 Actual Length = 4674.971mil
-   Violation between Length Constraint: (7875.752mil > 1502.5mil) Net NetL7_1 Actual Length = 7875.752mil
-   Violation between Length Constraint: (3705.15mil > 1502.5mil) Net NetL7_2 Actual Length = 3705.15mil
-   Violation between Length Constraint: (13289.127mil > 1502.5mil) Net NetL8_1 Actual Length = 13289.127mil
-   Violation between Length Constraint: (1055.549mil < 1497.5mil) Net NetL8_2 Actual Length = 1055.549mil
-   Violation between Length Constraint: (263.209mil < 1497.5mil) Net NetL9_1 Actual Length = 263.209mil
-   Violation between Length Constraint: (2944.109mil > 1502.5mil) Net NetM1_9 Actual Length = 2944.109mil
-   Violation between Length Constraint: (1217.722mil < 1497.5mil) Net NetNT1_1 Actual Length = 1217.722mil
-   Violation between Length Constraint: (326.449mil < 1497.5mil) Net NetNT19_1 Actual Length = 326.449mil
-   Violation between Length Constraint: (1135.045mil < 1497.5mil) Net NetNT2_1 Actual Length = 1135.045mil
-   Violation between Length Constraint: (329.521mil < 1497.5mil) Net NetNT21_1 Actual Length = 329.521mil
-   Violation between Length Constraint: (1060.242mil < 1497.5mil) Net NetNT3_1 Actual Length = 1060.242mil
-   Violation between Length Constraint: (1001.187mil < 1497.5mil) Net NetNT4_1 Actual Length = 1001.187mil
-   Violation between Length Constraint: (7525.229mil > 1502.5mil) Net NetNT5_1 Actual Length = 7525.229mil
-   Violation between Length Constraint: (7623.654mil > 1502.5mil) Net NetNT7_1 Actual Length = 7623.654mil
-   Violation between Length Constraint: (7686.646mil > 1502.5mil) Net NetNT8_1 Actual Length = 7686.646mil
-   Violation between Length Constraint: (8505.324mil > 1502.5mil) Net NetQ1_1 Actual Length = 8505.324mil
-   Violation between Length Constraint: (0mil < 1497.5mil) Net NetQ1_2 Actual Length = 0mil
-   Violation between Length Constraint: (255.253mil < 1497.5mil) Net NetR106_1 Actual Length = 255.253mil
-   Violation between Length Constraint: (347.125mil < 1497.5mil) Net NetR106_2 Actual Length = 347.125mil
-   Violation between Length Constraint: (347.123mil < 1497.5mil) Net NetR109_2 Actual Length = 347.123mil
-   Violation between Length Constraint: (255.255mil < 1497.5mil) Net NetR112_2 Actual Length = 255.255mil
-   Violation between Length Constraint: (255.253mil < 1497.5mil) Net NetR114_1 Actual Length = 255.253mil
-   Violation between Length Constraint: (347.127mil < 1497.5mil) Net NetR114_2 Actual Length = 347.127mil
-   Violation between Length Constraint: (347.123mil < 1497.5mil) Net NetR118_2 Actual Length = 347.123mil
-   Violation between Length Constraint: (255.255mil < 1497.5mil) Net NetR120_2 Actual Length = 255.255mil
-   Violation between Length Constraint: (274.94mil < 1497.5mil) Net NetR123_1 Actual Length = 274.94mil
-   Violation between Length Constraint: (274.94mil < 1497.5mil) Net NetR123_2 Actual Length = 274.94mil
-   Violation between Length Constraint: (274.94mil < 1497.5mil) Net NetR126_2 Actual Length = 274.94mil
-   Violation between Length Constraint: (274.94mil < 1497.5mil) Net NetR130_1 Actual Length = 274.94mil
-   Violation between Length Constraint: (274.94mil < 1497.5mil) Net NetR130_2 Actual Length = 274.94mil
-   Violation between Length Constraint: (274.94mil < 1497.5mil) Net NetR133_2 Actual Length = 274.94mil
-   Violation between Length Constraint: (31647.328mil > 1502.5mil) Net NetR154_1 Actual Length = 31647.328mil
-   Violation between Length Constraint: (271.004mil < 1497.5mil) Net NetR161_2 Actual Length = 271.004mil
-   Violation between Length Constraint: (5833.016mil > 1502.5mil) Net NetR165_1 Actual Length = 5833.016mil
-   Violation between Length Constraint: (4694.96mil > 1502.5mil) Net NetR168_1 Actual Length = 4694.96mil
-   Violation between Length Constraint: (1600.906mil > 1502.5mil) Net NetR179_1 Actual Length = 1600.906mil
-   Violation between Length Constraint: (2544.503mil > 1502.5mil) Net NetR185_1 Actual Length = 2544.503mil
-   Violation between Length Constraint: (2503.56mil > 1502.5mil) Net NetR197_1 Actual Length = 2503.56mil
-   Violation between Length Constraint: (562.991mil < 1497.5mil) Net NetR198_2 Actual Length = 562.991mil
-   Violation between Length Constraint: (2120.291mil > 1502.5mil) Net NetR199_1 Actual Length = 2120.291mil
-   Violation between Length Constraint: (2159.661mil > 1502.5mil) Net NetR200_1 Actual Length = 2159.661mil
-   Violation between Length Constraint: (299.743mil < 1497.5mil) Net NetR201_1 Actual Length = 299.743mil
-   Violation between Length Constraint: (6539.574mil > 1502.5mil) Net NetR202_1 Actual Length = 6539.574mil
-   Violation between Length Constraint: (8010.043mil > 1502.5mil) Net NetR210_1 Actual Length = 8010.043mil
-   Violation between Length Constraint: (9433.269mil > 1502.5mil) Net NetR212_1 Actual Length = 9433.269mil
-   Violation between Length Constraint: (10828.935mil > 1502.5mil) Net NetR213_1 Actual Length = 10828.935mil
-   Violation between Length Constraint: (9986.417mil > 1502.5mil) Net NetR214_1 Actual Length = 9986.417mil
-   Violation between Length Constraint: (12191.137mil > 1502.5mil) Net NetR215_1 Actual Length = 12191.137mil
-   Violation between Length Constraint: (12234.444mil > 1502.5mil) Net NetR216_1 Actual Length = 12234.444mil
-   Violation between Length Constraint: (268.875mil < 1497.5mil) Net NetR217_1 Actual Length = 268.875mil
-   Violation between Length Constraint: (268.875mil < 1497.5mil) Net NetR218_1 Actual Length = 268.875mil
-   Violation between Length Constraint: (13222.631mil > 1502.5mil) Net NetR219_1 Actual Length = 13222.631mil
-   Violation between Length Constraint: (13262.001mil > 1502.5mil) Net NetR220_1 Actual Length = 13262.001mil
-   Violation between Length Constraint: (13756.094mil > 1502.5mil) Net NetR221_1 Actual Length = 13756.094mil
-   Violation between Length Constraint: (13795.464mil > 1502.5mil) Net NetR222_1 Actual Length = 13795.464mil
-   Violation between Length Constraint: (1828.647mil > 1502.5mil) Net NetR224_1 Actual Length = 1828.647mil
-   Violation between Length Constraint: (1350.3mil < 1497.5mil) Net NetR226_1 Actual Length = 1350.3mil
-   Violation between Length Constraint: (1009.627mil < 1497.5mil) Net NetR227_1 Actual Length = 1009.627mil
-   Violation between Length Constraint: (2527.182mil > 1502.5mil) Net NetR233_1 Actual Length = 2527.182mil
-   Violation between Length Constraint: (299.742mil < 1497.5mil) Net NetR234_2 Actual Length = 299.742mil
-   Violation between Length Constraint: (1608.048mil > 1502.5mil) Net NetR235_2 Actual Length = 1608.048mil
-   Violation between Length Constraint: (3957.494mil > 1502.5mil) Net NetR238_1 Actual Length = 3957.494mil
-   Violation between Length Constraint: (569.113mil < 1497.5mil) Net NetR241_1 Actual Length = 569.113mil
-   Violation between Length Constraint: (2382.102mil > 1502.5mil) Net NetR242_1 Actual Length = 2382.102mil
-   Violation between Length Constraint: (2695.093mil > 1502.5mil) Net NetR243_1 Actual Length = 2695.093mil
-   Violation between Length Constraint: (2986.431mil > 1502.5mil) Net NetR244_1 Actual Length = 2986.431mil
-   Violation between Length Constraint: (3578.95mil > 1502.5mil) Net NetR245_1 Actual Length = 3578.95mil
-   Violation between Length Constraint: (3832.886mil > 1502.5mil) Net NetR246_1 Actual Length = 3832.886mil
-   Violation between Length Constraint: (4911.624mil > 1502.5mil) Net NetR247_1 Actual Length = 4911.624mil
-   Violation between Length Constraint: (268.876mil < 1497.5mil) Net NetR248_1 Actual Length = 268.876mil
-   Violation between Length Constraint: (5407.686mil > 1502.5mil) Net NetR249_1 Actual Length = 5407.686mil
-   Violation between Length Constraint: (12855.194mil > 1502.5mil) Net NetR25_2 Actual Length = 12855.194mil
-   Violation between Length Constraint: (5669.496mil > 1502.5mil) Net NetR250_1 Actual Length = 5669.496mil
-   Violation between Length Constraint: (249.507mil < 1497.5mil) Net NetR254_2 Actual Length = 249.507mil
-   Violation between Length Constraint: (249.507mil < 1497.5mil) Net NetR255_2 Actual Length = 249.507mil
-   Violation between Length Constraint: (249.508mil < 1497.5mil) Net NetR256_2 Actual Length = 249.508mil
-   Violation between Length Constraint: (6015.364mil > 1502.5mil) Net NetR257_1 Actual Length = 6015.364mil
-   Violation between Length Constraint: (1141.73mil < 1497.5mil) Net NetR258_2 Actual Length = 1141.73mil
-   Violation between Length Constraint: (5913.002mil > 1502.5mil) Net NetR259_1 Actual Length = 5913.002mil
-   Violation between Length Constraint: (1141.73mil < 1497.5mil) Net NetR260_2 Actual Length = 1141.73mil
-   Violation between Length Constraint: (5806.703mil > 1502.5mil) Net NetR261_1 Actual Length = 5806.703mil
-   Violation between Length Constraint: (382.914mil < 1497.5mil) Net NetR262_1 Actual Length = 382.914mil
-   Violation between Length Constraint: (299.744mil < 1497.5mil) Net NetR264_1 Actual Length = 299.744mil
-   Violation between Length Constraint: (299.744mil < 1497.5mil) Net NetR265_1 Actual Length = 299.744mil
-   Violation between Length Constraint: (322.401mil < 1497.5mil) Net NetR265_2 Actual Length = 322.401mil
-   Violation between Length Constraint: (10004.726mil > 1502.5mil) Net NetR271_1 Actual Length = 10004.726mil
-   Violation between Length Constraint: (9611.026mil > 1502.5mil) Net NetR273_1 Actual Length = 9611.026mil
-   Violation between Length Constraint: (9217.326mil > 1502.5mil) Net NetR275_1 Actual Length = 9217.326mil
-   Violation between Length Constraint: (301.002mil < 1497.5mil) Net NetR276_2 Actual Length = 301.002mil
-   Violation between Length Constraint: (51010.99mil > 1502.5mil) Net NetR282_2 Actual Length = 51010.99mil
-   Violation between Length Constraint: (166.338mil < 1497.5mil) Net NetR283_2 Actual Length = 166.338mil
-   Violation between Length Constraint: (53636.11mil > 1502.5mil) Net NetR284_2 Actual Length = 53636.11mil
-   Violation between Length Constraint: (293.642mil < 1497.5mil) Net NetR298_1 Actual Length = 293.642mil
-   Violation between Length Constraint: (4845.463mil > 1502.5mil) Net NetR309_1 Actual Length = 4845.463mil
-   Violation between Length Constraint: (5097.431mil > 1502.5mil) Net NetR310_1 Actual Length = 5097.431mil
-   Violation between Length Constraint: (5447.824mil > 1502.5mil) Net NetR311_1 Actual Length = 5447.824mil
-   Violation between Length Constraint: (5715.54mil > 1502.5mil) Net NetR312_1 Actual Length = 5715.54mil
-   Violation between Length Constraint: (5987.193mil > 1502.5mil) Net NetR313_1 Actual Length = 5987.193mil
-   Violation between Length Constraint: (6258.846mil > 1502.5mil) Net NetR314_1 Actual Length = 6258.846mil
-   Violation between Length Constraint: (6558.058mil > 1502.5mil) Net NetR315_1 Actual Length = 6558.058mil
-   Violation between Length Constraint: (7128.155mil > 1502.5mil) Net NetR316_1 Actual Length = 7128.155mil
-   Violation between Length Constraint: (1495.627mil < 1497.5mil) Net NetR316_2 Actual Length = 1495.627mil
-   Violation between Length Constraint: (978.345mil < 1497.5mil) Net NetR318_2 Actual Length = 978.345mil
-   Violation between Length Constraint: (278.209mil < 1497.5mil) Net NetR320_1 Actual Length = 278.209mil
-   Violation between Length Constraint: (605.865mil < 1497.5mil) Net NetR321_2 Actual Length = 605.865mil
-   Violation between Length Constraint: (4663.593mil > 1502.5mil) Net NetR325_1 Actual Length = 4663.593mil
-   Violation between Length Constraint: (3160.643mil > 1502.5mil) Net NetR349_1 Actual Length = 3160.643mil
-   Violation between Length Constraint: (4599.184mil > 1502.5mil) Net NetR350_2 Actual Length = 4599.184mil
-   Violation between Length Constraint: (269.507mil < 1497.5mil) Net NetR351_2 Actual Length = 269.507mil
-   Violation between Length Constraint: (269.507mil < 1497.5mil) Net NetR352_2 Actual Length = 269.507mil
-   Violation between Length Constraint: (1283.029mil < 1497.5mil) Net NetR62_2 Actual Length = 1283.029mil
-   Violation between Length Constraint: (15509.408mil > 1502.5mil) Net NetR79_2 Actual Length = 15509.408mil
-   Violation between Length Constraint: (647.42mil < 1497.5mil) Net NetR80_2 Actual Length = 647.42mil
-   Violation between Length Constraint: (166.338mil < 1497.5mil) Net NetR82_2 Actual Length = 166.338mil
-   Violation between Length Constraint: (12286.54mil > 1502.5mil) Net NetR84_1 Actual Length = 12286.54mil
-   Violation between Length Constraint: (6135.411mil > 1502.5mil) Net NetR85_2 Actual Length = 6135.411mil
-   Violation between Length Constraint: (5922.813mil > 1502.5mil) Net NetR86_2 Actual Length = 5922.813mil
-   Violation between Length Constraint: (4715.689mil > 1502.5mil) Net NetR87_1 Actual Length = 4715.689mil
-   Violation between Length Constraint: (1390.183mil < 1497.5mil) Net NetR92_2 Actual Length = 1390.183mil
-   Violation between Length Constraint: (0mil < 1497.5mil) Net NetR93_2 Actual Length = 0mil
-   Violation between Length Constraint: (166.339mil < 1497.5mil) Net NetR98_2 Actual Length = 166.339mil
-   Violation between Length Constraint: (8677.599mil > 1502.5mil) Net NetR99_2 Actual Length = 8677.599mil
-   Violation between Length Constraint: (308.007mil < 1497.5mil) Net NetTP125_1 Actual Length = 308.007mil
-   Violation between Length Constraint: (751.219mil < 1497.5mil) Net NetU33_11 Actual Length = 751.219mil
-   Violation between Length Constraint: (83.17mil < 1497.5mil) Net NO_C1_15 Actual Length = 83.17mil
-   Violation between Length Constraint: (257.616mil < 1497.5mil) Net ODT Actual Length = 257.616mil
-   Violation between Length Constraint: (163.336mil < 1497.5mil) Net OE/RESET Actual Length = 163.336mil
-   Violation between Length Constraint: (7303.339mil > 1502.5mil) Net PCI_GND Actual Length = 7303.339mil
-   Violation between Length Constraint: (322.185mil < 1497.5mil) Net PCI_HSI0_16_N Actual Length = 322.185mil
-   Violation between Length Constraint: (250.334mil < 1497.5mil) Net PCI_HSI0_16_P Actual Length = 250.334mil
-   Violation between Length Constraint: (509.349mil < 1497.5mil) Net PCI_HSO0_16_N Actual Length = 509.349mil
-   Violation between Length Constraint: (425.353mil < 1497.5mil) Net PCI_HSO0_16_P Actual Length = 425.353mil
-   Violation between Length Constraint: (269.507mil < 1497.5mil) Net PCI_REFCLK_16_N Actual Length = 269.507mil
-   Violation between Length Constraint: (351.535mil < 1497.5mil) Net PCI_REFCLK_16_P Actual Length = 351.535mil
-   Violation between Length Constraint: (450.354mil < 1497.5mil) Net PCI_SMCLK_16 Actual Length = 450.354mil
-   Violation between Length Constraint: (450.353mil < 1497.5mil) Net PCI_SMDAT_16 Actual Length = 450.353mil
-   Violation between Length Constraint: (34984.513mil > 1502.5mil) Net PCI_TCK Actual Length = 34984.513mil
-   Violation between Length Constraint: (296.002mil < 1497.5mil) Net PCI_TCK_16 Actual Length = 296.002mil
-   Violation between Length Constraint: (34497.506mil > 1502.5mil) Net PCI_TDI Actual Length = 34497.506mil
-   Violation between Length Constraint: (296.003mil < 1497.5mil) Net PCI_TDI_16 Actual Length = 296.003mil
-   Violation between Length Constraint: (35141.796mil > 1502.5mil) Net PCI_TDO Actual Length = 35141.796mil
-   Violation between Length Constraint: (296.002mil < 1497.5mil) Net PCI_TDO_16 Actual Length = 296.002mil
-   Violation between Length Constraint: (34742.978mil > 1502.5mil) Net PCI_TMS Actual Length = 34742.978mil
-   Violation between Length Constraint: (296.003mil < 1497.5mil) Net PCI_TMS_16 Actual Length = 296.003mil
-   Violation between Length Constraint: (277.092mil < 1497.5mil) Net PLL_SPI_CLK Actual Length = 277.092mil
-   Violation between Length Constraint: (277.092mil < 1497.5mil) Net PLL_SPI_MISO Actual Length = 277.092mil
-   Violation between Length Constraint: (415.846mil < 1497.5mil) Net PROGRAM_B Actual Length = 415.846mil
-   Violation between Length Constraint: (17138.145mil > 1502.5mil) Net PROM_D3 Actual Length = 17138.145mil
-   Violation between Length Constraint: (17358.618mil > 1502.5mil) Net PROM_D5 Actual Length = 17358.618mil
-   Violation between Length Constraint: (90.007mil < 1497.5mil) Net PROM_TCK Actual Length = 90.007mil
-   Violation between Length Constraint: (0mil < 1497.5mil) Net PROM_TDO Actual Length = 0mil
-   Violation between Length Constraint: (0mil < 1497.5mil) Net PROM_TMS Actual Length = 0mil
-   Violation between Length Constraint: (271.005mil < 1497.5mil) Net RCA_12 Actual Length = 271.005mil
-   Violation between Length Constraint: (271.003mil < 1497.5mil) Net RCB_12 Actual Length = 271.003mil
-   Violation between Length Constraint: (9835.296mil > 1502.5mil) Net RD_15_- Actual Length = 9835.296mil
-   Violation between Length Constraint: (9715.611mil > 1502.5mil) Net RD_15_+ Actual Length = 9715.611mil
-   Violation between Length Constraint: (8724.491mil > 1502.5mil) Net RDCT_15 Actual Length = 8724.491mil
-   Violation between Length Constraint: (173.176mil < 1497.5mil) Net REF_CLK_N Actual Length = 173.176mil
-   Violation between Length Constraint: (173.176mil < 1497.5mil) Net REF_CLK_P Actual Length = 173.176mil
-   Violation between Length Constraint: (38355.177mil > 1502.5mil) Net REFCLK_N Actual Length = 38355.177mil
-   Violation between Length Constraint: (38302.028mil > 1502.5mil) Net REFCLK_P Actual Length = 38302.028mil
-   Violation between Length Constraint: (188.176mil < 1497.5mil) Net RESET Actual Length = 188.176mil
-   Violation between Length Constraint: (83.169mil < 1497.5mil) Net REV_SEL0 Actual Length = 83.169mil
-   Violation between Length Constraint: (83.169mil < 1497.5mil) Net REV_SEL1 Actual Length = 83.169mil
-   Violation between Length Constraint: (98.169mil < 1497.5mil) Net RFUSE Actual Length = 98.169mil
-   Violation between Length Constraint: (25663.589mil > 1502.5mil) Net RST_ETH_PHY Actual Length = 25663.589mil
-   Violation between Length Constraint: (345.331mil < 1497.5mil) Net RX_15_- Actual Length = 345.331mil
-   Violation between Length Constraint: (261.336mil < 1497.5mil) Net RX_15_+ Actual Length = 261.336mil
-   Violation between Length Constraint: (28927.772mil > 1502.5mil) Net RXC Actual Length = 28927.772mil
-   Violation between Length Constraint: (7533.784mil > 1502.5mil) Net RXCT_15 Actual Length = 7533.784mil
-   Violation between Length Constraint: (7331.366mil > 1502.5mil) Net RXD Actual Length = 7331.366mil
-   Violation between Length Constraint: (27738.798mil > 1502.5mil) Net RXD0 Actual Length = 27738.798mil
-   Violation between Length Constraint: (27908.089mil > 1502.5mil) Net RXD1 Actual Length = 27908.089mil
-   Violation between Length Constraint: (28160.057mil > 1502.5mil) Net RXD2 Actual Length = 28160.057mil
-   Violation between Length Constraint: (28687.615mil > 1502.5mil) Net RXD3 Actual Length = 28687.615mil
-   Violation between Length Constraint: (26959.272mil > 1502.5mil) Net RXDV Actual Length = 26959.272mil
-   Violation between Length Constraint: (27447.46mil > 1502.5mil) Net RXER Actual Length = 27447.46mil
-   Violation between Length Constraint: (40971.056mil > 1502.5mil) Net RZQ_8 Actual Length = 40971.056mil
-   Violation between Length Constraint: (265.176mil < 1497.5mil) Net SCL1 Actual Length = 265.176mil
-   Violation between Length Constraint: (265.178mil < 1497.5mil) Net SCL2 Actual Length = 265.178mil
-   Violation between Length Constraint: (265.177mil < 1497.5mil) Net SCL3 Actual Length = 265.177mil
-   Violation between Length Constraint: (376.353mil < 1497.5mil) Net SCLK Actual Length = 376.353mil
-   Violation between Length Constraint: (24484.586mil > 1502.5mil) Net SD_CLK Actual Length = 24484.586mil
-   Violation between Length Constraint: (24689.31mil > 1502.5mil) Net SD_CMD Actual Length = 24689.31mil
-   Violation between Length Constraint: (24319.232mil > 1502.5mil) Net SD_D0 Actual Length = 24319.232mil
-   Violation between Length Constraint: (24472.775mil > 1502.5mil) Net SD_D1 Actual Length = 24472.775mil
-   Violation between Length Constraint: (24815.295mil > 1502.5mil) Net SD_D2 Actual Length = 24815.295mil
-   Violation between Length Constraint: (24653.877mil > 1502.5mil) Net SD_D3 Actual Length = 24653.877mil
-   Violation between Length Constraint: (288.562mil < 1497.5mil) Net SD_DET Actual Length = 288.562mil
-   Violation between Length Constraint: (265.177mil < 1497.5mil) Net SDA1 Actual Length = 265.177mil
-   Violation between Length Constraint: (265.178mil < 1497.5mil) Net SDA2 Actual Length = 265.178mil
-   Violation between Length Constraint: (265.176mil < 1497.5mil) Net SDA3 Actual Length = 265.176mil
-   Violation between Length Constraint: (188.175mil < 1497.5mil) Net SDIO Actual Length = 188.175mil
-   Violation between Length Constraint: (188.176mil < 1497.5mil) Net SEN Actual Length = 188.176mil
-   Violation between Length Constraint: (35690.469mil > 1502.5mil) Net SENSE_MISO Actual Length = 35690.469mil
-   Violation between Length Constraint: (35710.154mil > 1502.5mil) Net SENSE_MOSI Actual Length = 35710.154mil
-   Violation between Length Constraint: (35769.21mil > 1502.5mil) Net SENSE_SCLK Actual Length = 35769.21mil
-   Violation between Length Constraint: (264.508mil < 1497.5mil) Net SERIAL_NO Actual Length = 264.508mil
-   Violation between Length Constraint: (7381.366mil > 1502.5mil) Net SILENT Actual Length = 7381.366mil
-   Violation between Length Constraint: (293.714mil < 1497.5mil) Net SMA_IN1_10 Actual Length = 293.714mil
-   Violation between Length Constraint: (285.788mil < 1497.5mil) Net SMA_IN2_10 Actual Length = 285.788mil
-   Violation between Length Constraint: (194.031mil < 1497.5mil) Net SMA_OUT1_11 Actual Length = 194.031mil
-   Violation between Length Constraint: (187.113mil < 1497.5mil) Net SMA_OUT2_11 Actual Length = 187.113mil
-   Violation between Length Constraint: (201.337mil < 1497.5mil) Net SMCLK_PCI Actual Length = 201.337mil
-   Violation between Length Constraint: (201.337mil < 1497.5mil) Net SMDAT_PCI Actual Length = 201.337mil
-   Violation between Length Constraint: (291.514mil < 1497.5mil) Net SR_12 Actual Length = 291.514mil
-   Violation between Length Constraint: (20024.041mil > 1502.5mil) Net SR_ISO Actual Length = 20024.041mil
-   Violation between Length Constraint: (7520.736mil > 1502.5mil) Net STBY Actual Length = 7520.736mil
-   Violation between Length Constraint: (3418.565mil > 1502.5mil) Net STEP_12 Actual Length = 3418.565mil
-   Violation between Length Constraint: (22088.211mil > 1502.5mil) Net STEP_ISO Actual Length = 22088.211mil
-   Violation between Length Constraint: (181.34mil < 1497.5mil) Net SUSPEND Actual Length = 181.34mil
-   Violation between Length Constraint: (6484.212mil > 1502.5mil) Net TAG_TCK_7 Actual Length = 6484.212mil
-   Violation between Length Constraint: (6826.731mil > 1502.5mil) Net TAG_TDI_7 Actual Length = 6826.731mil
-   Violation between Length Constraint: (6899.959mil > 1502.5mil) Net TAG_TDO_7 Actual Length = 6899.959mil
-   Violation between Length Constraint: (6757.44mil > 1502.5mil) Net TAG_TMS_7 Actual Length = 6757.44mil
-   Violation between Length Constraint: (10721.476mil > 1502.5mil) Net TCK_USB Actual Length = 10721.476mil
-   Violation between Length Constraint: (9624.666mil > 1502.5mil) Net TD_15_- Actual Length = 9624.666mil
-   Violation between Length Constraint: (9606.95mil > 1502.5mil) Net TD_15_+ Actual Length = 9606.95mil
-   Violation between Length Constraint: (8183.153mil > 1502.5mil) Net TDCT_15 Actual Length = 8183.153mil
-   Violation between Length Constraint: (90.007mil < 1497.5mil) Net TDI Actual Length = 90.007mil
-   Violation between Length Constraint: (11473.443mil > 1502.5mil) Net TDI_USB Actual Length = 11473.443mil
-   Violation between Length Constraint: (10646.673mil > 1502.5mil) Net TDO_USB Actual Length = 10646.673mil
-   Violation between Length Constraint: (11410.452mil > 1502.5mil) Net TMS_USB Actual Length = 11410.452mil
-   Violation between Length Constraint: (1378.949mil < 1497.5mil) Net TX_15_- Actual Length = 1378.949mil
-   Violation between Length Constraint: (1348.634mil < 1497.5mil) Net TX_15_+ Actual Length = 1348.634mil
-   Violation between Length Constraint: (28456.536mil > 1502.5mil) Net TXC Actual Length = 28456.536mil
-   Violation between Length Constraint: (7547.563mil > 1502.5mil) Net TXCT_15 Actual Length = 7547.563mil
-   Violation between Length Constraint: (7431.366mil > 1502.5mil) Net TXD Actual Length = 7431.366mil
-   Violation between Length Constraint: (28692.756mil > 1502.5mil) Net TXD0 Actual Length = 28692.756mil
-   Violation between Length Constraint: (28614.016mil > 1502.5mil) Net TXD1 Actual Length = 28614.016mil
-   Violation between Length Constraint: (28554.961mil > 1502.5mil) Net TXD2 Actual Length = 28554.961mil
-   Violation between Length Constraint: (28338.425mil > 1502.5mil) Net TXD3 Actual Length = 28338.425mil
-   Violation between Length Constraint: (28436.851mil > 1502.5mil) Net TXEN Actual Length = 28436.851mil
-   Violation between Length Constraint: (4136.22mil > 1502.5mil) Net TXENABLE Actual Length = 4136.22mil
-   Violation between Length Constraint: (28574.646mil > 1502.5mil) Net TXER Actual Length = 28574.646mil
-   Violation between Length Constraint: (283.621mil < 1497.5mil) Net UD_14_- Actual Length = 283.621mil
-   Violation between Length Constraint: (288.761mil < 1497.5mil) Net UD_14_+ Actual Length = 288.761mil
-   Violation between Length Constraint: (257.615mil < 1497.5mil) Net UDM Actual Length = 257.615mil
-   Violation between Length Constraint: (13272.009mil > 1502.5mil) Net USB_CTS Actual Length = 13272.009mil
-   Violation between Length Constraint: (1786.451mil > 1502.5mil) Net USB_GND Actual Length = 1786.451mil
-   Violation between Length Constraint: (12799.568mil > 1502.5mil) Net USB_RTS Actual Length = 12799.568mil
-   Violation between Length Constraint: (12681.458mil > 1502.5mil) Net USB_RX Actual Length = 12681.458mil
-   Violation between Length Constraint: (12814.332mil > 1502.5mil) Net USB_TX Actual Length = 12814.332mil
-   Violation between Length Constraint: (1209.053mil < 1497.5mil) Net USM0_12 Actual Length = 1209.053mil
-   Violation between Length Constraint: (25439.716mil > 1502.5mil) Net USM0_ISO Actual Length = 25439.716mil
-   Violation between Length Constraint: (1133.462mil < 1497.5mil) Net USM1_12 Actual Length = 1133.462mil
-   Violation between Length Constraint: (25450.345mil > 1502.5mil) Net USM1_ISO Actual Length = 25450.345mil
-   Violation between Length Constraint: (362.676mil < 1497.5mil) Net VBATT Actual Length = 362.676mil
-   Violation between Length Constraint: (390.509mil < 1497.5mil) Net VBUS_DETECT_14 Actual Length = 390.509mil
-   Violation between Length Constraint: (810.062mil < 1497.5mil) Net VCCAUX Actual Length = 810.062mil
-   Violation between Length Constraint: (450.034mil < 1497.5mil) Net VCCINT Actual Length = 450.034mil
-   Violation between Length Constraint: (1115.025mil < 1497.5mil) Net VDD1_PCI Actual Length = 1115.025mil
-   Violation between Length Constraint: (1198.194mil < 1497.5mil) Net VDD2_PCI Actual Length = 1198.194mil
-   Violation between Length Constraint: (279.506mil < 1497.5mil) Net VFS Actual Length = 279.506mil
-   Violation between Length Constraint: (83.168mil < 1497.5mil) Net VTT_PG Actual Length = 83.168mil
-   Violation between Length Constraint: (83.17mil < 1497.5mil) Net WDT.\WDT_OUT Actual Length = 83.17mil
-   Violation between Length Constraint: (33984.999mil > 1502.5mil) Net WDT_IN Actual Length = 33984.999mil
-Rule Violations :500
 
 Processing Rule : Length Constraint (Min=1497.5mil) (Max=1502.5mil) (InNetClass('DQH'))
 Rule Violations :0
+
+Processing Rule : Length Constraint (Min=2997.5mil) (Max=3002.5mil) (InNetClass('ACC'))
+   Violation between Length Constraint: (2833.662mil < 2997.5mil) Net CKE Actual Length = 2833.662mil
+Rule Violations :1
 
 Processing Rule : Matched Lengths(Tolerance=2.5mil) (IsDifferentialPair)
 Rule Violations :0
@@ -568,19 +28,49 @@ Rule Violations :0
 Processing Rule : Matched Lengths(Tolerance=10mil) (Disabled)(InNetClass('DDR_DATA'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('PROM_D[0..7]'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('ADC_DATA'))
-Rule Violations :0
-
 Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('DAC_DIFF'))
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('ADC_DATA'))
+   Violation between Matched Net Lengths: Between Net DA0_N And Net DA8_N Length:4029.528mil is not within 50mil tolerance of Length:4167.323mil (87.795mil short) 
+   Violation between Matched Net Lengths: Between Net DA0_P And Net DA8_P Length:4068.898mil is not within 50mil tolerance of Length:4127.953mil (9.055mil short) 
+   Violation between Matched Net Lengths: Between Net DA10_N And Net DA8_N Length:3891.732mil is not within 50mil tolerance of Length:4167.323mil (225.591mil short) 
+   Violation between Matched Net Lengths: Between Net DA10_P And Net DA8_N Length:3911.417mil is not within 50mil tolerance of Length:4167.323mil (205.906mil short) 
+   Violation between Matched Net Lengths: Between Net DA12_N And Net DA8_N Length:3931.102mil is not within 50mil tolerance of Length:4167.323mil (186.22mil short) 
+   Violation between Matched Net Lengths: Between Net DA12_P And Net DA8_N Length:3950.787mil is not within 50mil tolerance of Length:4167.323mil (166.535mil short) 
+   Violation between Matched Net Lengths: Between Net DA2_N And Net DA8_N Length:3990.157mil is not within 50mil tolerance of Length:4167.323mil (127.165mil short) 
+   Violation between Matched Net Lengths: Between Net DA2_P And Net DA8_N Length:4049.213mil is not within 50mil tolerance of Length:4167.323mil (68.11mil short) 
+   Violation between Matched Net Lengths: Between Net DA4_N And Net DA8_N Length:3950.787mil is not within 50mil tolerance of Length:4167.323mil (166.536mil short) 
+   Violation between Matched Net Lengths: Between Net DA4_P And Net DA8_N Length:4009.843mil is not within 50mil tolerance of Length:4167.323mil (107.48mil short) 
+   Violation between Matched Net Lengths: Between Net DA6_N And Net DA8_N Length:3950.787mil is not within 50mil tolerance of Length:4167.323mil (166.536mil short) 
+   Violation between Matched Net Lengths: Between Net DA6_P And Net DA8_N Length:4049.213mil is not within 50mil tolerance of Length:4167.323mil (68.11mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB0_N Length:3655.512mil is not within 50mil tolerance of Length:4167.323mil (461.811mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB0_P Length:3675.197mil is not within 50mil tolerance of Length:4167.323mil (442.126mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB10_N Length:3421.26mil is not within 50mil tolerance of Length:4167.323mil (696.063mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB10_P Length:3480.315mil is not within 50mil tolerance of Length:4167.323mil (637.008mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB12_N Length:3618.11mil is not within 50mil tolerance of Length:4167.323mil (499.213mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB12_P Length:3559.055mil is not within 50mil tolerance of Length:4167.323mil (558.268mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB2_N Length:3694.882mil is not within 50mil tolerance of Length:4167.323mil (422.441mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB2_P Length:3753.937mil is not within 50mil tolerance of Length:4167.323mil (363.386mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB4_N Length:3578.74mil is not within 50mil tolerance of Length:4167.323mil (538.583mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB4_P Length:3598.425mil is not within 50mil tolerance of Length:4167.323mil (518.898mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB6_N Length:3657.48mil is not within 50mil tolerance of Length:4167.323mil (459.843mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB6_P Length:3677.165mil is not within 50mil tolerance of Length:4167.323mil (440.158mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB8_N Length:3421.26mil is not within 50mil tolerance of Length:4167.323mil (696.063mil short) 
+   Violation between Matched Net Lengths: Between Net DA8_N And Net DB8_P Length:3440.945mil is not within 50mil tolerance of Length:4167.323mil (676.378mil short) 
+Rule Violations :26
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('PROM_D[0..7]'))
+   Violation between Matched Net Lengths: Between Net PROM_D0 And Net PROM_D6 Length:16586.964mil is not within 50mil tolerance of Length:17429.484mil (792.52mil short) 
+   Violation between Matched Net Lengths: Between Net PROM_D1 And Net PROM_D6 Length:16775.94mil is not within 50mil tolerance of Length:17429.484mil (603.543mil short) 
+   Violation between Matched Net Lengths: Between Net PROM_D2 And Net PROM_D6 Length:16909.799mil is not within 50mil tolerance of Length:17429.484mil (469.685mil short) 
+   Violation between Matched Net Lengths: Between Net PROM_D3 And Net PROM_D6 Length:17138.145mil is not within 50mil tolerance of Length:17429.484mil (241.339mil short) 
+   Violation between Matched Net Lengths: Between Net PROM_D4 And Net PROM_D6 Length:17248.381mil is not within 50mil tolerance of Length:17429.484mil (131.102mil short) 
+   Violation between Matched Net Lengths: Between Net PROM_D5 And Net PROM_D6 Length:17358.618mil is not within 50mil tolerance of Length:17429.484mil (20.866mil short) 
+   Violation between Matched Net Lengths: Between Net PROM_D6 And Net PROM_D7 Length:17279.877mil is not within 50mil tolerance of Length:17429.484mil (99.606mil short) 
+Rule Violations :7
 
 
-Violations Detected : 500
+Violations Detected : 34
 Waived Violations : 0
 Time Elapsed        : 00:00:01
