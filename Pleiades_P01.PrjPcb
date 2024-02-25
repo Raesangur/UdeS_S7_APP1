@@ -2274,7 +2274,11 @@ Net64=NetName=PCI_GND|NetColor=$00434343
 Net65=NetName=PGND|NetColor=$00434343
 Net66=NetName=USB_GND|NetColor=$00434343
 Net67=NetName=VDD1_PCI|NetColor=$0032C2F1
-Net68=NetName=VDD2_PCI|NetColor=$0032C2F1
+Net68=NetName=VDD1_PCI_1|NetColor=$0032C2F1
+Net69=NetName=VDD1_PCI_2|NetColor=$0032C2F1
+Net70=NetName=VDD2_PCI|NetColor=$0032C2F1
+Net71=NetName=VDD2_PCI_1|NetColor=$0032C2F1
+Net72=NetName=VDD2_PCI_2|NetColor=$0032C2F1
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
