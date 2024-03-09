@@ -2250,7 +2250,7 @@ Net40=NetName=+6V|NetColor=clLime
 Net41=NetName=+VCC_OSC|NetColor=$00FF0099
 Net42=NetName=+VCC_PLL|NetColor=$00FF0099
 Net43=NetName=+VCC_USB|NetColor=$0032C2F1
-Net44=NetName=+VDDR|NetColor=$0099E5FF
+Net44=NetName=+VDDR|NetColor=$000099FF
 Net45=NetName=+VREF_DDR|NetColor=$000099FF
 Net46=NetName=+VTT|NetColor=$000099FF
 Net47=NetName=-3V3A|NetColor=clLime
