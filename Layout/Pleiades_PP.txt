@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : E:\GitHub\UdeS_S7_APP1\Layout\Pleiades_PP.PcbDoc
 Date         : 2024-03-11
-Time         : 11:08:00
-Time Elapsed : 00:00:01
+Time         : 11:52:57
+Time Elapsed : 00:00:00
 
 General
     Board Size, 12244.095milsx4515.278mils
@@ -10,8 +10,8 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 93,11%
-    Connections, 3195
-    Connections routed, 2975
-    Connections remaining, 220
+    Routing completion, 93,63%
+    Connections, 3201
+    Connections routed, 2997
+    Connections remaining, 204
 count : 4
