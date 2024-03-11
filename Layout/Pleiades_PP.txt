@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : E:\GitHub\UdeS_S7_APP1\Layout\Pleiades_PP.PcbDoc
 Date         : 2024-03-11
-Time         : 03:54:27
+Time         : 11:08:00
 Time Elapsed : 00:00:01
 
 General
