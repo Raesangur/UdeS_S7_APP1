@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : E:\GitHub\UdeS_S7_APP1\Layout\Pleiades_PP.PcbDoc
 Date         : 2024-03-12
-Time         : 02:59:25
+Time         : 04:54:11
 Time Elapsed : 00:00:00
 
 General
@@ -10,8 +10,8 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 97,53%
+    Routing completion, 97,84%
     Connections, 3201
-    Connections routed, 3122
-    Connections remaining, 79
+    Connections routed, 3132
+    Connections remaining, 69
 count : 4
