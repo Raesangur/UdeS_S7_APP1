@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Pleiades_PP.GBR   2024-03-12  08:52:19
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                TOP                                     
+.G1                 GND1                                    
+.G2                 IN1                                     
+.G3                 GND2                                    
+.G4                 POW1                                    
+.G5                 GND3                                    
+.G6                 POW2                                    
+.G7                 GND4                                    
+.G8                 GND5                                    
+.G9                 IN2                                     
+.G10                GND6                                    
+.GBL                BOT                                     
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM18               Bottom Coating                          
+.GM17               Top Coating                             
+.GM14               Bottom Assembly                         
+.GM13               Top Assembly                            
+.GM10               Panel Outline                           
+.GM8                Manufacturing Notes                     
+.GM2                Title                                   
+.GM1                Board Outline                           
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\GitHub\UdeS_S7_APP1\Layout\Pleiades_PP.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pleiades_pp-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pleiades_pp-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,gbl

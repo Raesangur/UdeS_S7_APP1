@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 08:41:30 On 2024-03-12
+
+Output: 3D Model
+Type  : ExportSTEP
+From  : Variant [PLEIADES] of PCB Document [Pleiades_PP.PcbDoc]
+   Generated File[PCB_3D.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:41:50 On 2024-03-12

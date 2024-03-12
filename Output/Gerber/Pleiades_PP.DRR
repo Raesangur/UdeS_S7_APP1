@@ -1,0 +1,45 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Pleiades_PP.PcbDoc   2024-03-12  08:52:22
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOT
+ASCII RoundHoles File : Pleiades_PP-RoundHoles.TXT
+ASCII SlotHoles File : Pleiades_PP-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.152mm (6mil)                                            Round             2903      PTH        6794.40mm (267.50inch)
+T2      0.2mm (8mil)                                              Round             110       PTH        482.57mm (19.00inch)
+T3      0.254mm (10mil)         +/-0.102mm (4mil)                 Round             168       PTH        1233.91mm (48.58inch)
+T4      0.254mm (10mil)                                           Round             225       PTH        628.16mm (24.73inch)
+T5      0.3mm (12mil)                                             Round             9         PTH        8.00mm (0.31inch)
+T6      0.305mm (12mil)                                           Round             55        PTH        669.23mm (26.35inch)
+T7      0.35mm (14mil)                                            Round             9         PTH        8.56mm (0.34inch)
+T8      0.406mm (16mil)         +/-0.102mm (4mil)                 Round             12        PTH        12.57mm (0.49inch)
+T9      0.508mm (20mil)                                           Round             48        PTH        223.35mm (8.79inch)
+T10     0.508mm (20mil)         +/-0.127mm (5mil)                 Slot              4         PTH        42.96mm (1.69inch)
+T11     0.889mm (35mil)                                           Round             12        PTH        34.52mm (1.36inch)
+T12     1mm (39mil)                                               Round             3         PTH        9.72mm (0.38inch)
+T13     1.016mm (40mil)         +/-0.203mm (8mil)                 Round             54        PTH        1344.34mm (52.93inch)
+T14     1.118mm (44mil)                                           Round             58        PTH        662.13mm (26.07inch)
+T15     1.3mm (51mil)                                             Round             4         PTH        15.00mm (0.59inch)
+T16     1.575mm (62mil)                                           Round             12        PTH        264.52mm (10.41inch)
+T17     1.65mm (65mil)                                            Round             20        PTH        124.78mm (4.91inch)
+T18     1.778mm (70mil)         +/-0.152mm (6mil)                 Round             4         PTH        16.71mm (0.66inch)
+T19     1.803mm (71mil)                                           Round             6         PTH        22.30mm (0.88inch)
+T20     1.85mm (73mil)                                            Round             6         PTH        52.25mm (2.06inch)
+T21     2.134mm (84mil)                                           Round             4         PTH        135.08mm (5.32inch)
+T22     3.251mm (128mil)                                          Round             2         PTH        12.70mm (0.50inch)
+T23     3.429mm (135mil)        +/-0.508mm (20mil)                Round             14        PTH        1019.27mm (40.13inch)
+T24     5.842mm (230mil)        +/-0.254mm (10mil)                Round             2         PTH        11.00mm (0.43inch)
+T25     0.66mm (26mil)          +/-0.102mm (4mil)                 Round             2         NPTH       7.45mm (0.29inch)
+T26     1.27mm (50mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T27     2.997mm (118mil)                                          Round             2         NPTH       8.40mm (0.33inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3749
+
+Two holes at same point : 1
+-----------------------
+2990,3290
+
+Total Processing Time (hh:mm:ss) : 00:00:01

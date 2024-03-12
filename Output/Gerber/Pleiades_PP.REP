@@ -1,0 +1,1135 @@
+*************************************************************
+FileName = Pleiades_PP.GBR
+AutoAperture = True
+*************************************************************
+Generating : GND1
+      File : Pleiades_P01_GND1.G1
+
+    Adding Layer      : GND1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D149
+    D253
+    D285
+    D296
+    D297
+    D298
+    D300
+    D301
+    D302
+    D303
+    D304
+    D310
+    D311
+    D314
+    D317
+    D322
+    D323
+    D324
+*************************************************************
+
+*************************************************************
+Generating : POW1
+      File : Pleiades_P01_POW1.G4
+
+    Adding Layer      : POW1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D18
+    D149
+    D253
+    D292
+    D296
+    D297
+    D298
+    D300
+    D301
+    D322
+*************************************************************
+
+*************************************************************
+Generating : GND3
+      File : Pleiades_P01_GND3.G5
+
+    Adding Layer      : GND3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D149
+    D296
+*************************************************************
+
+*************************************************************
+Generating : POW2
+      File : Pleiades_P01_POW2.G6
+
+    Adding Layer      : POW2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D18
+    D149
+    D258
+    D288
+    D296
+    D297
+    D298
+    D301
+    D322
+*************************************************************
+
+*************************************************************
+Generating : GND4
+      File : Pleiades_P01_GND4.G7
+
+    Adding Layer      : GND4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D149
+    D296
+*************************************************************
+
+*************************************************************
+Generating : TOP
+      File : Pleiades_P01_TOP.GTL
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D16
+    D18
+    D24
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D71
+    D72
+    D73
+    D74
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D104
+    D105
+    D106
+    D108
+    D109
+    D111
+    D112
+    D113
+    D114
+    D115
+    D117
+    D119
+    D120
+    D121
+    D122
+    D167
+    D177
+    D238
+    D253
+    D256
+    D257
+    D258
+    D259
+    D260
+    D261
+    D262
+    D263
+    D264
+    D265
+    D266
+    D267
+    D268
+    D269
+    D270
+    D271
+    D272
+    D273
+    D274
+    D275
+    D276
+    D277
+    D278
+    D279
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+    D287
+    D288
+    D289
+    D290
+    D291
+    D292
+    D293
+    D294
+    D295
+    D296
+    D297
+    D298
+    D299
+    D300
+    D301
+    D302
+    D303
+    D304
+    D305
+    D306
+    D307
+    D308
+    D309
+    D310
+    D311
+    D312
+    D313
+    D314
+    D315
+    D316
+    D317
+    D318
+    D319
+    D320
+    D321
+    D322
+    D323
+    D324
+*************************************************************
+
+*************************************************************
+Generating : IN1
+      File : Pleiades_P01_IN1.G2
+
+    Adding Layer      : IN1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D16
+    D18
+    D149
+    D256
+    D258
+    D287
+    D289
+    D291
+    D296
+    D297
+    D325
+    D326
+    D327
+    D328
+*************************************************************
+
+*************************************************************
+Generating : GND2
+      File : Pleiades_P01_GND2.G3
+
+    Adding Layer      : GND2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D149
+    D296
+*************************************************************
+
+*************************************************************
+Generating : IN2
+      File : Pleiades_P01_IN2.G9
+
+    Adding Layer      : IN2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D16
+    D18
+    D24
+    D149
+    D256
+    D258
+    D289
+    D293
+    D296
+    D297
+    D300
+    D325
+    D326
+    D327
+    D329
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Pleiades_P01_TOP_ASSY.GM13
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+    D12
+    D16
+    D17
+    D383
+    D384
+*************************************************************
+
+*************************************************************
+Generating : GND6
+      File : Pleiades_P01_GND6.G10
+
+    Adding Layer      : GND6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D149
+    D296
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Pleiades_P01_BOT_ASSY.GM14
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Pleiades_P01_BOT_PASTE.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D33
+    D34
+    D35
+    D36
+    D38
+    D39
+    D40
+    D42
+    D44
+    D45
+    D46
+    D47
+    D49
+    D50
+    D51
+    D52
+    D53
+    D55
+    D66
+    D67
+    D68
+    D70
+    D73
+    D83
+    D84
+    D86
+    D100
+    D107
+    D108
+    D109
+    D111
+    D112
+    D117
+    D118
+    D119
+    D332
+    D335
+    D338
+    D341
+    D342
+    D343
+    D345
+    D347
+    D348
+    D350
+    D371
+    D372
+    D373
+    D374
+    D375
+    D376
+    D377
+    D378
+    D379
+    D380
+    D381
+    D382
+*************************************************************
+
+*************************************************************
+Generating : Manufacturing Notes
+      File : Pleiades_P01_MFR_NOTES.GM8
+
+    Adding Layer      : Manufacturing Notes
+
+
+Used DCodes :
+    D11
+    D12
+    D16
+    D293
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Pleiades_P01_BOT_SOLDER.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D123
+    D124
+    D125
+    D126
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D137
+    D139
+    D140
+    D141
+    D142
+    D144
+    D145
+    D146
+    D147
+    D148
+    D151
+    D162
+    D163
+    D164
+    D165
+    D167
+    D168
+    D172
+    D183
+    D184
+    D186
+    D201
+    D208
+    D209
+    D210
+    D212
+    D213
+    D218
+    D219
+    D220
+    D221
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+    D245
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+    D253
+    D254
+    D255
+    D344
+    D351
+    D352
+    D353
+    D354
+    D355
+    D356
+    D357
+    D358
+    D359
+    D360
+    D361
+    D362
+    D363
+    D364
+    D365
+    D366
+    D367
+    D368
+    D369
+    D370
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Pleiades_P01_BOARD_OUTLINE.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D17
+    D21
+    D387
+    D388
+*************************************************************
+
+*************************************************************
+Generating : GND5
+      File : Pleiades_P01_GND5.G8
+
+    Adding Layer      : GND5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D149
+    D296
+*************************************************************
+
+*************************************************************
+Generating : Bottom Coating
+      File : Pleiades_P01_BOT_COAT.GM18
+
+    Adding Layer      : Bottom Coating
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Pleiades_P01_BOT_SILK.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D16
+    D17
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Pleiades_P01_TOP_SILK.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Pleiades_P01_TOP_SOLDER.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D54
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+    D245
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+    D253
+    D254
+    D255
+*************************************************************
+
+*************************************************************
+Generating : Top Coating
+      File : Pleiades_P01_TOP_COAT.GM17
+
+    Adding Layer      : Top Coating
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Pleiades_P01_TOP_PASTE.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : BOT
+      File : Pleiades_P01_BOT.GBL
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D16
+    D18
+    D24
+    D33
+    D34
+    D35
+    D36
+    D38
+    D39
+    D40
+    D42
+    D44
+    D45
+    D46
+    D47
+    D49
+    D50
+    D52
+    D53
+    D55
+    D66
+    D67
+    D68
+    D73
+    D83
+    D84
+    D86
+    D100
+    D108
+    D109
+    D111
+    D112
+    D117
+    D119
+    D167
+    D253
+    D256
+    D257
+    D258
+    D259
+    D260
+    D261
+    D263
+    D264
+    D267
+    D268
+    D275
+    D276
+    D277
+    D278
+    D280
+    D284
+    D285
+    D287
+    D288
+    D291
+    D292
+    D294
+    D296
+    D297
+    D298
+    D299
+    D300
+    D301
+    D302
+    D303
+    D304
+    D305
+    D306
+    D307
+    D308
+    D309
+    D310
+    D311
+    D312
+    D313
+    D314
+    D315
+    D316
+    D317
+    D318
+    D319
+    D320
+    D321
+    D322
+    D323
+    D324
+    D330
+    D331
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+    D339
+    D340
+    D341
+    D342
+    D343
+    D344
+    D345
+    D346
+    D347
+    D348
+    D349
+    D350
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Pleiades_P01_DRILL_DRW.GD1
+
+    Adding Drill Pair : TOP-BOT
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D388
+    D389
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Pleiades_P01_DRILL_GUIDE.GG1
+
+    Adding Drill Pair : TOP-BOT
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Pleiades_P01_BoardOutline.GM
+
+
+Used DCodes :
+    D390
+*************************************************************
+
+*************************************************************
+Generating : Title
+      File : Pleiades_P01_TITLE.GM2
+
+    Adding Layer      : Title
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D23
+    D385
+    D386
+*************************************************************
+
+*************************************************************
+Generating : Panel Outline
+      File : Pleiades_P01_PANEL_OUTLINE.GM10
+
+    Adding Layer      : Panel Outline
+
+
+Used DCodes :
+*************************************************************
+
