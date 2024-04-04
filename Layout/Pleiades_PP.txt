@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : E:\GitHub\UdeS_S7_APP1\Layout\Pleiades_PP.PcbDoc
 Date         : 2024-03-12
-Time         : 08:08:37
-Time Elapsed : 00:00:00
+Time         : 19:57:08
+Time Elapsed : 00:00:01
 
 General
     Board Size, 12244.095milsx4515.278mils
@@ -15,3 +15,18 @@ Routing Information
     Connections routed, 3185
     Connections remaining, 0
 count : 4
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    TOP, 11,882, 7666,06, 23%
+    GND1, 45,378, 29275,795, 88%
+    IN1, 2,492, 1607,794, 5%
+    GND2, 45,598, 29418,115, 89%
+    POW1, 37,664, 24299,09, 73%
+    GND3, 45,598, 29418,115, 89%
+    POW2, 33,33, 21502,981, 65%
+    GND4, 45,598, 29418,115, 89%
+    GND5, 45,598, 29418,115, 89%
+    IN2, 2,078, 1340,76, 4%
+    GND6, 45,598, 29418,115, 89%
+    BOT, 11,261, 7264,853, 22%
+count : 12
