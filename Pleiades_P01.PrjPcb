@@ -1209,92 +1209,92 @@ DocumentPath=Output\ERC_DRC\SinglePinNetReporter.REP
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Pascal-Emmanuel Lachance
+Name=SCH_SCALE
+Value=1:1
 
 [Parameter2]
-Name=CAGE_CODE
-Value=
+Name=Revision
+Value=B
 
 [Parameter3]
-Name=CHK_APP_DATE
-Value=
+Name=Project_Revision
+Value=B
 
 [Parameter4]
-Name=DOC_NO_ASSY_DWG
-Value=PCB_S7_DWG.PCBDwf
-
-[Parameter5]
-Name=DOC_NO_BOM
-Value=PCB_S7_BOM.xslx
-
-[Parameter6]
-Name=DOC_NO_FAB_DWG
-Value=
-
-[Parameter7]
-Name=DSN_APP_DATE
-Value=
-
-[Parameter8]
-Name=ENG_APP_DATE
-Value=
-
-[Parameter9]
-Name=NotFitted
-Value=DNF
-
-[Parameter10]
-Name=PCB_DWG_NO
-Value=PCB_S7.PcbDoc
-
-[Parameter11]
-Name=Project
-Value=PLEIADES
-
-[Parameter12]
-Name=Project_Date
-Value==CurrentDate
-
-[Parameter13]
-Name=Project_Designer1
-Value=lacp3102
-
-[Parameter14]
-Name=Project_Designer2
-Value=Pascal-Emmanuel Lachance
-
-[Parameter15]
-Name=Project_Designer3
-Value=bilf0901
-
-[Parameter16]
-Name=Project_Designer4
-Value=Frederic Bilodeau
-
-[Parameter17]
-Name=Project_Global
-Value=UdeS_H24_S7CAS
-
-[Parameter18]
-Name=Project_Group
-Value=Group P01
-
-[Parameter19]
 Name=Project_Name
 Value=PLEIADES
 
+[Parameter5]
+Name=Project_Group
+Value=Group P01
+
+[Parameter6]
+Name=Project_Global
+Value=UdeS_H24_S7CAS
+
+[Parameter7]
+Name=Project_Designer4
+Value=Frederic Bilodeau
+
+[Parameter8]
+Name=Project_Designer3
+Value=bilf0901
+
+[Parameter9]
+Name=Project_Designer2
+Value=Pascal-Emmanuel Lachance
+
+[Parameter10]
+Name=Project_Designer1
+Value=lacp3102
+
+[Parameter11]
+Name=Project_Date
+Value==CurrentDate
+
+[Parameter12]
+Name=Project
+Value=PLEIADES
+
+[Parameter13]
+Name=PCB_DWG_NO
+Value=PCB_S7.PcbDoc
+
+[Parameter14]
+Name=NotFitted
+Value=DNF
+
+[Parameter15]
+Name=ENG_APP_DATE
+Value=
+
+[Parameter16]
+Name=DSN_APP_DATE
+Value=
+
+[Parameter17]
+Name=DOC_NO_FAB_DWG
+Value=
+
+[Parameter18]
+Name=DOC_NO_BOM
+Value=PCB_S7_BOM.xslx
+
+[Parameter19]
+Name=DOC_NO_ASSY_DWG
+Value=PCB_S7_DWG.PCBDwf
+
 [Parameter20]
-Name=Project_Revision
-Value=A
+Name=CHK_APP_DATE
+Value=
 
 [Parameter21]
-Name=Revision
-Value=A
+Name=CAGE_CODE
+Value=
 
 [Parameter22]
-Name=SCH_SCALE
-Value=1:1
+Name=Author
+Value=Pascal-Emmanuel Lachance
 
 [DiffPairSuffix1]
 Positive=_+
