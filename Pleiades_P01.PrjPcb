@@ -340,6 +340,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YUKEDVSF
 
 [Document18]
+DocumentPath=Schematics\JTAG.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=24
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PUSNOBSY
+
+[Document19]
 DocumentPath=Schematics\FPGA_MISC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXEZDIHU
 
-[Document19]
+[Document20]
 DocumentPath=Schematics\FPGA_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTBVUYSJ
 
-[Document20]
+[Document21]
 DocumentPath=Schematics\PROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYWAZQYM
 
-[Document21]
+[Document22]
 DocumentPath=Schematics\ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBAGKWMY
 
-[Document22]
+[Document23]
 DocumentPath=Schematics\DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -424,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPQYGTKV
 
-[Document23]
+[Document24]
 DocumentPath=Schematics\DDR3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -441,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=Schematics\MOTOR_CONTROL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSRXIKGI
 
-[Document25]
+[Document26]
 DocumentPath=Schematics\USER_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +492,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KOBZXXBH
 
-[Document26]
+[Document27]
 DocumentPath=Schematics\SENSORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,7 +509,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHVRALPB
 
-[Document27]
+[Document28]
 DocumentPath=Schematics\FPGA_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,7 +526,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=Schematics\CLOCK.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=Schematics\USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYMCERZG
 
-[Document30]
+[Document31]
 DocumentPath=Schematics\ETHERNET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -560,7 +577,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ABUZCJOU
 
-[Document31]
+[Document32]
 DocumentPath=Schematics\PCI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -577,7 +594,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUMJPBZQ
 
-[Document32]
+[Document33]
 DocumentPath=Schematics\POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -594,7 +611,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJJCHCUX
 
-[Document33]
+[Document34]
 DocumentPath=Schematics\POWER_ANALOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASMCSDRU
 
-[Document34]
+[Document35]
 DocumentPath=Schematics\POWER_DDR3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -628,7 +645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZZLCSOUA
 
-[Document35]
+[Document36]
 DocumentPath=Schematics\POWER_FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -645,7 +662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPBHSYKL
 
-[Document36]
+[Document37]
 DocumentPath=Schematics\POWER_MOTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -662,7 +679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDJDCYYO
 
-[Document37]
+[Document38]
 DocumentPath=Librairies\raeslib\Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -679,7 +696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUPVOFTH
 
-[Document38]
+[Document39]
 DocumentPath=Schematics\USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -696,7 +713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=Librairies\raeslib\Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -713,7 +730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXDNLVJW
 
-[Document40]
+[Document41]
 DocumentPath=Schematics\ETHERNET.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -730,7 +747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=Schematics\POWER_SENSING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -747,7 +764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTOQVDRC
 
-[Document42]
+[Document43]
 DocumentPath=Schematics\POWER_SENSING.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -764,7 +781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=Schematics\ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -781,7 +798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=Schematics\PROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -798,7 +815,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document46]
 DocumentPath=Schematics\MOTOR_CONTROL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -815,7 +832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=Schematics\FPGA_MISC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -832,7 +849,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document48]
 DocumentPath=Schematics\DAC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -849,7 +866,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document49]
 DocumentPath=Schematics\USER_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -866,7 +883,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document50]
 DocumentPath=Schematics\POWER_MOTORS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -883,7 +900,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document51]
 DocumentPath=Schematics\PCI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -900,7 +917,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document52]
 DocumentPath=Pleiades_P01.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -917,7 +934,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document53]
 DocumentPath=Layout\Pleiades.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -934,7 +951,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNPRNCKY
 
-[Document53]
+[Document54]
 DocumentPath=Librairies\vias_normal.PvLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -951,8 +968,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document55]
 DocumentPath=Schematics\SENSORS.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document56]
+DocumentPath=Schematics\JTAG.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
