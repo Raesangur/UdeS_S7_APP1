@@ -1,32 +1,32 @@
 Board Information Report
 Filename     : E:\GitHub\UdeS_S7_APP1\Layout\Pleiades_PP.PcbDoc
-Date         : 2024-03-12
-Time         : 19:57:08
-Time Elapsed : 00:00:01
+Date         : 2024-04-14
+Time         : 23:55:13
+Time Elapsed : 00:00:02
 
 General
     Board Size, 12244.095milsx4515.278mils
-    Components on board, 1374
+    Components on board, 1450
 count : 2
 
 Routing Information
-    Routing completion, 100,00%
-    Connections, 3185
-    Connections routed, 3185
-    Connections remaining, 0
+    Routing completion, 93,17%
+    Connections, 3384
+    Connections routed, 3153
+    Connections remaining, 231
 count : 4
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    TOP, 11,882, 7666,06, 23%
-    GND1, 45,378, 29275,795, 88%
-    IN1, 2,492, 1607,794, 5%
-    GND2, 45,598, 29418,115, 89%
-    POW1, 37,664, 24299,09, 73%
-    GND3, 45,598, 29418,115, 89%
-    POW2, 33,33, 21502,981, 65%
-    GND4, 45,598, 29418,115, 89%
-    GND5, 45,598, 29418,115, 89%
-    IN2, 2,078, 1340,76, 4%
-    GND6, 45,598, 29418,115, 89%
-    BOT, 11,261, 7264,853, 22%
+    TOP, 12,186, 7861,627, 24%
+    GND1, 45,432, 29310,62, 89%
+    IN1, 2,517, 1624,132, 5%
+    GND2, 45,654, 29453,988, 89%
+    POW1, 37,702, 24323,653, 73%
+    GND3, 45,654, 29453,988, 89%
+    POW2, 33,385, 21538,724, 65%
+    GND4, 45,654, 29453,988, 89%
+    GND5, 45,654, 29453,988, 89%
+    IN2, 2,095, 1351,591, 4%
+    GND6, 45,654, 29453,988, 89%
+    BOT, 11,013, 7105,107, 21%
 count : 12
